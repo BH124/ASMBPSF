@@ -1,0 +1,401 @@
+AccessID,CustomerID,AccessDate,AccessTime,DeviceType,BrowserType,PageViewed,Duration,ReferralSource,GeoLocation
+1,34,08/03/2023,08:43:00,Desktop,Chrome,Contact Us,253,Twitter,Germany
+2,12,03/27/2023,21:29:00,Mobile,Safari,About Us,509,Twitter,France
+3,89,06/18/2023,01:48:00,Tablet,Chrome,Contact Us,471,Twitter,UK
+4,92,04/02/2023,13:47:00,Mobile,Edge,Home Page,497,Facebook,France
+5,74,06/04/2023,11:37:00,Mobile,Chrome,Blog,343,Facebook,UK
+6,6,06/12/2023,22:26:00,Desktop,Safari,Product Page,436,Twitter,Germany
+7,81,11/29/2023,23:43:00,Tablet,Firefox,About Us,360,Twitter,Canada
+8,23,12/27/2023,05:12:00,Tablet,Edge,Product Page,464,Twitter,Germany
+9,79,10/21/2023,05:14:00,Mobile,Safari,Product Page,421,Twitter,Canada
+10,8,11/24/2023,11:13:00,Mobile,Chrome,Product Page,367,Google,Canada
+11,60,07/28/2023,12:47:00,Tablet,Edge,Home Page,200,Direct,Germany
+12,64,06/23/2023,01:17:00,Desktop,Chrome,Blog,101,Google,Canada
+13,57,04/23/2023,10:31:00,Mobile,Edge,Contact Us,146,Direct,UK
+14,4,05/27/2023,06:40:00,Desktop,Safari,Contact Us,179,Facebook,Germany
+15,74,02/03/2023,09:50:00,Tablet,Chrome,Blog,315,Twitter,Germany
+16,10,02/10/2023,00:27:00,Tablet,Safari,About Us,324,Google,Canada
+17,91,11/30/2023,19:24:00,Tablet,Firefox,Home Page,284,Direct,Canada
+18,12,06/16/2023,13:19:00,Desktop,Safari,Blog,439,Twitter,France
+19,76,02/26/2023,13:30:00,Tablet,Safari,Contact Us,203,Google,France
+20,43,10/15/2023,15:08:00,Tablet,Edge,Contact Us,519,Bing,Germany
+21,94,04/30/2023,02:10:00,Tablet,Firefox,Blog,209,Facebook,Germany
+22,38,05/10/2023,01:58:00,Mobile,Edge,About Us,190,Google,UK
+23,37,02/27/2023,05:21:00,Tablet,Edge,About Us,599,Twitter,France
+24,91,09/12/2023,04:41:00,Desktop,Safari,About Us,584,Facebook,Canada
+25,52,04/27/2023,14:28:00,Tablet,Firefox,Product Page,560,Facebook,UK
+26,73,08/31/2023,02:14:00,Desktop,Safari,Product Page,71,Bing,UK
+27,6,10/14/2023,19:43:00,Mobile,Firefox,Contact Us,105,Bing,Germany
+28,62,02/05/2023,09:25:00,Mobile,Edge,Product Page,128,Bing,Germany
+29,59,05/14/2023,21:18:00,Tablet,Edge,Blog,151,Direct,France
+30,93,12/22/2023,03:59:00,Mobile,Chrome,About Us,329,Twitter,UK
+31,58,10/29/2023,14:37:00,Desktop,Chrome,About Us,244,Bing,France
+32,58,09/14/2023,14:59:00,Desktop,Safari,About Us,432,Bing,Germany
+33,30,08/31/2023,18:30:00,Tablet,Edge,Blog,529,Direct,UK
+34,85,02/15/2023,08:23:00,Mobile,Safari,Contact Us,163,Direct,UK
+35,86,07/23/2023,15:23:00,Mobile,Safari,About Us,19,Google,Germany
+36,83,01/02/2023,03:18:00,Tablet,Firefox,Contact Us,160,Google,Canada
+37,19,07/27/2023,07:33:00,Mobile,Edge,About Us,441,Bing,Germany
+38,78,05/18/2023,11:38:00,Tablet,Edge,Home Page,401,Facebook,USA
+39,39,06/15/2023,15:45:00,Mobile,Edge,Blog,18,Facebook,USA
+40,10,05/16/2023,10:18:00,Tablet,Firefox,Contact Us,337,Facebook,UK
+41,82,08/17/2023,10:33:00,Mobile,Firefox,About Us,57,Bing,France
+42,52,10/07/2023,22:04:00,Desktop,Chrome,Contact Us,307,Facebook,Germany
+43,58,12/18/2023,08:26:00,Tablet,Firefox,Contact Us,156,Twitter,Canada
+44,18,05/14/2023,12:29:00,Tablet,Chrome,About Us,566,Twitter,USA
+45,10,03/06/2023,12:30:00,Desktop,Chrome,Contact Us,144,Facebook,France
+46,98,07/02/2023,13:08:00,Desktop,Firefox,Contact Us,541,Facebook,France
+47,20,04/09/2023,11:05:00,Mobile,Safari,Contact Us,140,Direct,UK
+48,89,08/14/2023,09:08:00,Tablet,Firefox,About Us,270,Facebook,UK
+49,15,04/03/2023,21:55:00,Mobile,Edge,Home Page,465,Direct,France
+50,47,01/20/2023,09:26:00,Tablet,Safari,Product Page,488,Bing,Germany
+51,3,08/05/2023,13:59:00,Desktop,Safari,Blog,163,Bing,USA
+52,57,01/02/2023,02:22:00,Desktop,Chrome,Product Page,571,Google,Canada
+53,60,03/22/2023,09:07:00,Desktop,Edge,Home Page,564,Twitter,USA
+54,82,01/05/2023,00:05:00,Mobile,Safari,Blog,267,Google,UK
+55,66,08/13/2023,12:34:00,Tablet,Firefox,Home Page,159,Bing,Canada
+56,97,10/31/2023,05:40:00,Tablet,Safari,Product Page,112,Direct,UK
+57,62,08/30/2023,02:11:00,Tablet,Safari,About Us,228,Bing,UK
+58,40,12/19/2023,03:28:00,Desktop,Chrome,Home Page,552,Google,Germany
+59,73,01/21/2023,01:46:00,Desktop,Safari,Blog,533,Facebook,Canada
+60,99,06/05/2023,15:32:00,Desktop,Chrome,Blog,128,Google,USA
+61,44,08/29/2023,11:09:00,Tablet,Chrome,Home Page,599,Twitter,France
+62,55,11/06/2023,23:37:00,Tablet,Safari,Home Page,411,Facebook,Germany
+63,62,05/31/2023,03:15:00,Desktop,Safari,About Us,179,Google,USA
+64,91,06/26/2023,21:56:00,Mobile,Safari,Product Page,72,Twitter,Germany
+65,11,09/27/2023,19:42:00,Tablet,Edge,Product Page,335,Facebook,Canada
+66,96,02/13/2023,02:38:00,Desktop,Safari,Contact Us,272,Twitter,France
+67,64,10/29/2023,18:32:00,Desktop,Edge,Product Page,488,Twitter,France
+68,18,01/30/2023,09:47:00,Mobile,Firefox,Home Page,206,Facebook,Germany
+69,64,11/07/2023,06:01:00,Desktop,Chrome,Contact Us,193,Bing,UK
+70,52,12/11/2023,20:56:00,Tablet,Edge,About Us,127,Twitter,Germany
+71,21,09/09/2023,23:57:00,Tablet,Safari,Blog,501,Twitter,Germany
+72,32,09/18/2023,16:42:00,Tablet,Firefox,Blog,429,Direct,Germany
+73,62,07/06/2023,19:45:00,Tablet,Firefox,Contact Us,472,Facebook,Germany
+74,58,05/29/2023,20:43:00,Mobile,Firefox,Contact Us,495,Facebook,USA
+75,34,09/21/2023,06:44:00,Mobile,Chrome,About Us,224,Bing,Germany
+76,13,07/16/2023,14:27:00,Desktop,Firefox,Home Page,303,Twitter,Germany
+77,9,05/21/2023,22:35:00,Desktop,Edge,Home Page,586,Direct,Germany
+78,68,03/20/2023,18:11:00,Desktop,Edge,Contact Us,565,Direct,USA
+79,31,06/16/2023,12:46:00,Desktop,Safari,Home Page,378,Facebook,France
+80,12,08/30/2023,15:34:00,Mobile,Edge,About Us,564,Google,France
+81,89,05/13/2023,07:39:00,Mobile,Safari,Home Page,43,Facebook,France
+82,26,12/24/2023,22:24:00,Mobile,Safari,Contact Us,264,Bing,UK
+83,72,03/22/2023,02:29:00,Desktop,Chrome,Home Page,245,Facebook,France
+84,87,01/13/2023,04:54:00,Tablet,Chrome,Product Page,69,Bing,Germany
+85,23,11/06/2023,21:14:00,Tablet,Chrome,Contact Us,109,Facebook,Canada
+86,84,02/05/2023,00:49:00,Desktop,Firefox,Home Page,94,Facebook,USA
+87,96,05/21/2023,21:30:00,Tablet,Firefox,Home Page,501,Direct,France
+88,45,06/09/2023,06:27:00,Mobile,Chrome,Home Page,594,Google,France
+89,71,11/10/2023,10:01:00,Mobile,Chrome,Product Page,417,Twitter,UK
+90,60,08/07/2023,08:28:00,Desktop,Safari,Home Page,208,Twitter,USA
+91,61,11/30/2023,04:37:00,Desktop,Chrome,Home Page,469,Twitter,Canada
+92,83,04/23/2023,05:49:00,Tablet,Chrome,Contact Us,137,Facebook,France
+93,74,02/23/2023,12:39:00,Mobile,Edge,Product Page,299,Direct,France
+94,86,10/02/2023,21:52:00,Desktop,Chrome,Blog,475,Twitter,USA
+95,3,06/08/2023,09:51:00,Tablet,Edge,Product Page,451,Bing,Canada
+96,7,10/02/2023,09:24:00,Tablet,Edge,Contact Us,145,Facebook,USA
+97,88,08/09/2023,16:33:00,Desktop,Chrome,Home Page,197,Facebook,UK
+98,42,03/23/2023,08:04:00,Desktop,Safari,Product Page,314,Direct,France
+99,54,09/08/2023,23:40:00,Mobile,Safari,Contact Us,15,Google,Canada
+100,90,04/25/2023,02:33:00,Tablet,Safari,Contact Us,453,Twitter,UK
+101,39,03/14/2023,00:17:00,Desktop,Safari,Blog,521,Bing,UK
+102,40,03/08/2023,17:01:00,Tablet,Chrome,Product Page,39,Twitter,Canada
+103,77,05/01/2023,09:15:00,Mobile,Edge,Home Page,298,Twitter,Germany
+104,55,04/18/2023,18:01:00,Tablet,Firefox,About Us,68,Google,Germany
+105,62,05/03/2023,11:20:00,Mobile,Firefox,Blog,242,Facebook,France
+106,14,04/03/2023,19:28:00,Tablet,Safari,Home Page,342,Google,Germany
+107,89,05/26/2023,10:16:00,Mobile,Firefox,Product Page,508,Bing,USA
+108,11,06/22/2023,07:22:00,Mobile,Firefox,Contact Us,82,Twitter,Germany
+109,69,07/12/2023,04:50:00,Tablet,Edge,Home Page,481,Bing,Germany
+110,6,10/29/2023,00:01:00,Mobile,Chrome,Product Page,291,Facebook,Germany
+111,3,03/17/2023,12:36:00,Mobile,Edge,About Us,174,Twitter,USA
+112,64,12/26/2023,03:08:00,Mobile,Chrome,Product Page,515,Twitter,Canada
+113,41,10/13/2023,04:16:00,Desktop,Safari,Contact Us,418,Direct,USA
+114,71,06/05/2023,23:07:00,Desktop,Chrome,Product Page,309,Twitter,USA
+115,23,10/13/2023,06:14:00,Mobile,Safari,Blog,338,Facebook,USA
+116,8,12/15/2023,02:24:00,Tablet,Safari,Contact Us,316,Facebook,Germany
+117,43,09/07/2023,09:58:00,Desktop,Chrome,Home Page,247,Twitter,Canada
+118,9,12/07/2023,17:19:00,Mobile,Firefox,Home Page,50,Facebook,Germany
+119,35,11/26/2023,18:44:00,Desktop,Firefox,Blog,114,Facebook,USA
+120,69,03/21/2023,12:14:00,Mobile,Chrome,Contact Us,575,Bing,France
+121,52,11/08/2023,08:32:00,Mobile,Chrome,Blog,103,Twitter,USA
+122,19,02/12/2023,17:43:00,Tablet,Firefox,About Us,147,Google,USA
+123,75,05/08/2023,17:37:00,Mobile,Safari,About Us,464,Google,Germany
+124,47,12/26/2023,05:39:00,Mobile,Chrome,Home Page,592,Direct,UK
+125,88,11/11/2023,14:55:00,Desktop,Safari,Contact Us,392,Google,USA
+126,36,12/22/2023,22:15:00,Mobile,Safari,Home Page,237,Google,France
+127,38,09/19/2023,16:42:00,Mobile,Firefox,About Us,378,Facebook,Germany
+128,99,03/08/2023,01:12:00,Desktop,Chrome,Blog,503,Twitter,Canada
+129,26,10/05/2023,22:15:00,Mobile,Edge,Home Page,33,Twitter,Germany
+130,18,07/08/2023,13:54:00,Tablet,Safari,About Us,257,Google,Canada
+131,92,12/08/2023,16:10:00,Desktop,Chrome,Contact Us,531,Google,USA
+132,85,12/15/2023,22:44:00,Mobile,Safari,Product Page,218,Twitter,Germany
+133,12,08/05/2023,00:13:00,Tablet,Firefox,Blog,417,Facebook,UK
+134,39,06/05/2023,06:09:00,Tablet,Firefox,Blog,205,Facebook,France
+135,43,09/07/2023,09:22:00,Mobile,Firefox,Blog,373,Twitter,USA
+136,76,09/28/2023,08:36:00,Mobile,Safari,Blog,110,Twitter,Canada
+137,15,11/23/2023,22:13:00,Desktop,Edge,Contact Us,215,Facebook,Germany
+138,27,12/09/2023,16:34:00,Tablet,Edge,Product Page,461,Twitter,Germany
+139,65,10/06/2023,21:11:00,Desktop,Safari,Home Page,170,Twitter,Germany
+140,62,12/28/2023,17:11:00,Desktop,Chrome,Blog,369,Bing,Germany
+141,85,11/02/2023,11:01:00,Tablet,Safari,About Us,251,Twitter,Canada
+142,18,07/06/2023,22:20:00,Mobile,Safari,Contact Us,539,Google,France
+143,37,03/26/2023,01:02:00,Mobile,Safari,Contact Us,271,Direct,Canada
+144,86,10/19/2023,21:49:00,Desktop,Safari,Contact Us,523,Twitter,UK
+145,91,06/10/2023,06:01:00,Desktop,Safari,Blog,247,Direct,USA
+146,21,07/02/2023,00:47:00,Desktop,Safari,About Us,295,Direct,Canada
+147,82,10/26/2023,22:08:00,Tablet,Edge,Blog,370,Direct,USA
+148,60,10/25/2023,19:15:00,Mobile,Edge,Product Page,140,Direct,Canada
+149,16,06/30/2023,08:24:00,Mobile,Safari,Blog,92,Bing,France
+150,49,03/03/2023,14:44:00,Tablet,Safari,Home Page,131,Bing,USA
+151,83,08/01/2023,02:15:00,Tablet,Chrome,Contact Us,138,Bing,France
+152,92,11/28/2023,22:03:00,Desktop,Safari,Blog,155,Bing,USA
+153,1,01/30/2023,20:44:00,Desktop,Firefox,Blog,519,Google,UK
+154,4,11/03/2023,00:49:00,Desktop,Edge,Blog,25,Facebook,UK
+155,21,12/12/2023,23:52:00,Desktop,Chrome,About Us,69,Google,Canada
+156,14,11/17/2023,06:22:00,Mobile,Firefox,Product Page,32,Google,UK
+157,71,03/24/2023,09:52:00,Tablet,Chrome,About Us,157,Facebook,UK
+158,83,01/22/2023,04:57:00,Tablet,Firefox,Blog,406,Direct,France
+159,38,03/07/2023,16:06:00,Tablet,Safari,Home Page,485,Google,Canada
+160,52,07/14/2023,18:38:00,Desktop,Firefox,Home Page,592,Twitter,UK
+161,17,12/19/2023,16:32:00,Desktop,Firefox,Blog,66,Direct,Canada
+162,90,11/07/2023,13:57:00,Desktop,Safari,Contact Us,392,Direct,UK
+163,21,05/20/2023,01:08:00,Desktop,Firefox,About Us,305,Direct,Germany
+164,67,04/07/2023,11:07:00,Mobile,Edge,Blog,31,Twitter,USA
+165,92,05/19/2023,08:15:00,Tablet,Edge,About Us,502,Bing,France
+166,19,06/05/2023,13:42:00,Mobile,Safari,Product Page,397,Twitter,UK
+167,2,11/03/2023,05:27:00,Desktop,Firefox,Home Page,383,Facebook,UK
+168,19,10/30/2023,09:34:00,Mobile,Safari,Home Page,338,Google,Germany
+169,99,11/04/2023,05:36:00,Tablet,Safari,Blog,161,Direct,France
+170,98,10/17/2023,05:10:00,Desktop,Edge,About Us,518,Google,Germany
+171,79,06/26/2023,18:21:00,Tablet,Firefox,Home Page,21,Bing,Canada
+172,15,01/20/2023,08:20:00,Tablet,Firefox,About Us,408,Direct,France
+173,58,05/02/2023,16:32:00,Desktop,Chrome,Blog,321,Facebook,USA
+174,2,10/09/2023,20:17:00,Tablet,Firefox,Blog,284,Twitter,Germany
+175,11,06/10/2023,14:38:00,Mobile,Firefox,Home Page,197,Direct,UK
+176,35,02/28/2023,00:51:00,Tablet,Edge,About Us,262,Bing,Canada
+177,22,10/24/2023,00:13:00,Desktop,Safari,Blog,381,Google,Germany
+178,9,08/01/2023,18:11:00,Mobile,Chrome,Home Page,356,Direct,Germany
+179,42,07/29/2023,01:31:00,Mobile,Firefox,About Us,316,Facebook,UK
+180,7,01/03/2023,16:36:00,Mobile,Chrome,Product Page,593,Twitter,France
+181,6,01/11/2023,05:04:00,Mobile,Edge,Home Page,209,Direct,Germany
+182,47,04/16/2023,16:25:00,Mobile,Safari,Contact Us,23,Direct,UK
+183,83,02/05/2023,12:56:00,Desktop,Safari,Blog,106,Direct,Canada
+184,78,10/19/2023,19:10:00,Mobile,Edge,Contact Us,289,Twitter,France
+185,33,07/30/2023,19:23:00,Tablet,Safari,Product Page,152,Facebook,UK
+186,26,09/20/2023,05:58:00,Desktop,Chrome,Product Page,43,Facebook,Germany
+187,24,05/04/2023,08:13:00,Tablet,Edge,Contact Us,154,Bing,Canada
+188,30,09/24/2023,02:01:00,Tablet,Firefox,Home Page,496,Google,Germany
+189,72,10/29/2023,11:14:00,Tablet,Chrome,Blog,372,Facebook,Germany
+190,70,12/03/2023,11:48:00,Mobile,Safari,Home Page,60,Bing,Canada
+191,5,05/14/2023,10:19:00,Tablet,Safari,About Us,56,Google,Germany
+192,71,09/16/2023,10:23:00,Tablet,Safari,Blog,396,Bing,Germany
+193,31,02/04/2023,05:51:00,Tablet,Safari,Blog,100,Facebook,UK
+194,94,05/22/2023,22:37:00,Desktop,Safari,Contact Us,323,Twitter,USA
+195,10,08/28/2023,12:12:00,Desktop,Firefox,Product Page,246,Twitter,Canada
+196,24,09/22/2023,06:34:00,Mobile,Safari,Blog,303,Google,France
+197,30,03/18/2023,13:01:00,Mobile,Safari,Product Page,374,Facebook,France
+198,75,06/19/2023,19:09:00,Desktop,Chrome,Blog,21,Facebook,USA
+199,14,06/25/2023,04:55:00,Tablet,Edge,Product Page,38,Facebook,France
+200,73,03/24/2023,19:10:00,Desktop,Edge,Product Page,399,Facebook,USA
+201,14,12/27/2023,10:35:00,Tablet,Safari,Home Page,546,Bing,France
+202,1,12/10/2023,22:53:00,Desktop,Chrome,About Us,280,Direct,UK
+203,1,02/26/2023,21:48:00,Mobile,Firefox,Home Page,138,Google,USA
+204,77,01/20/2023,00:27:00,Tablet,Safari,Contact Us,75,Direct,Canada
+205,21,08/12/2023,22:16:00,Desktop,Edge,About Us,54,Google,USA
+206,51,11/29/2023,15:11:00,Mobile,Firefox,Blog,166,Google,UK
+207,77,12/07/2023,21:08:00,Mobile,Safari,Contact Us,288,Direct,USA
+208,23,08/11/2023,20:42:00,Mobile,Chrome,Home Page,209,Facebook,UK
+209,10,01/22/2023,04:01:00,Mobile,Safari,Home Page,88,Facebook,UK
+210,85,10/13/2023,07:23:00,Desktop,Chrome,Product Page,414,Direct,UK
+211,61,04/15/2023,14:56:00,Desktop,Safari,Blog,158,Twitter,UK
+212,53,03/03/2023,21:36:00,Mobile,Firefox,Blog,215,Facebook,France
+213,40,09/19/2023,23:05:00,Desktop,Safari,Product Page,362,Twitter,Germany
+214,79,07/06/2023,03:16:00,Tablet,Firefox,Home Page,140,Google,UK
+215,37,04/12/2023,14:27:00,Desktop,Chrome,About Us,580,Facebook,Germany
+216,59,12/12/2023,04:14:00,Desktop,Safari,About Us,347,Twitter,Canada
+217,60,12/30/2023,06:34:00,Desktop,Safari,Contact Us,424,Twitter,UK
+218,92,03/14/2023,15:03:00,Desktop,Safari,Product Page,42,Facebook,France
+219,39,09/30/2023,16:25:00,Mobile,Firefox,Home Page,450,Google,UK
+220,68,02/10/2023,00:17:00,Desktop,Firefox,Home Page,430,Facebook,France
+221,3,02/22/2023,18:30:00,Desktop,Edge,Contact Us,200,Direct,Canada
+222,3,09/20/2023,06:22:00,Mobile,Firefox,Product Page,196,Twitter,UK
+223,47,10/05/2023,15:55:00,Mobile,Chrome,About Us,112,Bing,USA
+224,85,01/16/2023,14:57:00,Desktop,Firefox,Contact Us,227,Google,UK
+225,25,03/04/2023,17:04:00,Mobile,Firefox,Blog,262,Bing,UK
+226,42,02/23/2023,05:31:00,Mobile,Chrome,Product Page,30,Bing,France
+227,76,03/23/2023,21:25:00,Desktop,Chrome,Blog,83,Google,USA
+228,99,08/23/2023,02:20:00,Mobile,Chrome,Home Page,265,Twitter,Canada
+229,85,04/14/2023,16:43:00,Mobile,Chrome,About Us,174,Facebook,Canada
+230,98,10/17/2023,17:03:00,Mobile,Firefox,Blog,97,Bing,USA
+231,89,11/17/2023,14:05:00,Mobile,Edge,Product Page,321,Bing,Germany
+232,68,12/17/2023,07:21:00,Mobile,Edge,Product Page,106,Twitter,France
+233,75,08/04/2023,06:53:00,Mobile,Safari,Contact Us,236,Bing,France
+234,74,01/02/2023,00:05:00,Mobile,Safari,About Us,348,Direct,Canada
+235,80,05/20/2023,06:19:00,Mobile,Chrome,Home Page,587,Google,France
+236,32,06/25/2023,19:29:00,Mobile,Chrome,Home Page,150,Bing,Canada
+237,45,05/22/2023,04:24:00,Tablet,Firefox,About Us,461,Twitter,Germany
+238,61,07/24/2023,09:43:00,Mobile,Chrome,Blog,225,Bing,USA
+239,35,01/15/2023,16:14:00,Desktop,Safari,Blog,522,Google,Canada
+240,47,07/31/2023,06:04:00,Mobile,Safari,Blog,486,Facebook,France
+241,25,07/17/2023,12:22:00,Desktop,Chrome,Blog,368,Google,UK
+242,8,02/02/2023,23:11:00,Tablet,Chrome,Contact Us,482,Bing,Canada
+243,40,08/06/2023,11:14:00,Desktop,Safari,Product Page,49,Facebook,Germany
+244,20,06/30/2023,02:32:00,Desktop,Safari,Home Page,530,Google,USA
+245,99,04/16/2023,21:43:00,Mobile,Edge,Blog,199,Google,Germany
+246,66,02/24/2023,07:44:00,Desktop,Firefox,Blog,72,Bing,UK
+247,43,12/19/2023,23:03:00,Mobile,Chrome,Contact Us,26,Bing,UK
+248,66,01/30/2023,23:08:00,Tablet,Safari,Contact Us,213,Direct,USA
+249,40,01/11/2023,16:52:00,Tablet,Edge,About Us,66,Twitter,UK
+250,60,01/28/2023,23:33:00,Desktop,Firefox,Product Page,70,Twitter,Germany
+251,32,10/18/2023,11:53:00,Mobile,Edge,Blog,36,Google,USA
+252,73,01/01/2024,16:29:00,Tablet,Firefox,Product Page,438,Google,France
+253,34,05/07/2023,04:18:00,Tablet,Edge,Contact Us,26,Google,France
+254,13,10/27/2023,21:59:00,Desktop,Firefox,Contact Us,182,Twitter,France
+255,54,10/17/2023,12:05:00,Mobile,Firefox,About Us,209,Bing,USA
+256,28,03/29/2023,15:31:00,Tablet,Chrome,Home Page,32,Twitter,UK
+257,91,01/15/2023,06:11:00,Mobile,Edge,About Us,210,Twitter,Germany
+258,7,05/20/2023,10:29:00,Desktop,Edge,Home Page,387,Facebook,Germany
+259,87,10/10/2023,17:30:00,Mobile,Firefox,Contact Us,436,Facebook,UK
+260,4,11/14/2023,06:44:00,Tablet,Firefox,Blog,122,Bing,France
+261,22,02/16/2023,18:13:00,Mobile,Firefox,About Us,163,Google,Canada
+262,90,03/31/2023,02:52:00,Tablet,Firefox,Product Page,108,Facebook,France
+263,97,09/17/2023,17:23:00,Mobile,Edge,About Us,547,Direct,Canada
+264,40,09/14/2023,20:59:00,Desktop,Safari,Contact Us,23,Direct,UK
+265,33,03/01/2023,18:26:00,Mobile,Firefox,Product Page,509,Bing,USA
+266,29,04/21/2023,23:13:00,Tablet,Edge,Product Page,145,Bing,UK
+267,49,08/14/2023,07:39:00,Mobile,Edge,Contact Us,85,Direct,UK
+268,94,11/11/2023,04:59:00,Tablet,Edge,Product Page,507,Facebook,France
+269,91,02/26/2023,17:36:00,Desktop,Edge,Blog,544,Bing,Germany
+270,58,12/30/2023,05:22:00,Tablet,Chrome,Home Page,313,Direct,Germany
+271,6,06/30/2023,23:18:00,Desktop,Edge,Home Page,542,Twitter,UK
+272,12,10/01/2023,04:47:00,Mobile,Safari,Contact Us,169,Direct,Canada
+273,90,05/09/2023,17:15:00,Tablet,Edge,Home Page,68,Twitter,France
+274,9,11/25/2023,07:21:00,Tablet,Chrome,Home Page,41,Google,France
+275,56,03/28/2023,18:38:00,Tablet,Chrome,Product Page,415,Twitter,Germany
+276,20,07/23/2023,16:21:00,Mobile,Chrome,Home Page,388,Facebook,UK
+277,28,07/10/2023,05:23:00,Desktop,Safari,Product Page,334,Direct,USA
+278,95,09/24/2023,05:28:00,Desktop,Chrome,Blog,428,Bing,USA
+279,91,08/30/2023,16:48:00,Tablet,Edge,Product Page,29,Bing,Canada
+280,85,11/12/2023,00:21:00,Desktop,Firefox,Home Page,101,Direct,Canada
+281,84,01/08/2023,16:40:00,Desktop,Safari,Home Page,564,Bing,Germany
+282,84,11/10/2023,22:02:00,Tablet,Firefox,Blog,126,Twitter,USA
+283,23,01/11/2023,22:23:00,Tablet,Safari,Home Page,368,Facebook,USA
+284,42,12/30/2023,10:45:00,Desktop,Chrome,Contact Us,418,Twitter,Canada
+285,86,11/09/2023,15:48:00,Desktop,Firefox,About Us,590,Direct,Canada
+286,78,06/15/2023,15:04:00,Tablet,Safari,Contact Us,417,Google,France
+287,77,04/13/2023,07:54:00,Mobile,Firefox,Blog,416,Facebook,USA
+288,34,03/14/2023,18:15:00,Tablet,Edge,About Us,89,Direct,Germany
+289,18,05/11/2023,16:04:00,Tablet,Edge,Product Page,376,Twitter,UK
+290,12,12/10/2023,04:32:00,Desktop,Firefox,Product Page,353,Twitter,France
+291,40,05/03/2023,06:19:00,Mobile,Firefox,About Us,223,Facebook,UK
+292,51,10/07/2023,15:46:00,Tablet,Edge,Product Page,233,Bing,Germany
+293,65,02/16/2023,07:05:00,Desktop,Safari,Home Page,533,Twitter,Germany
+294,83,07/22/2023,18:29:00,Mobile,Firefox,Home Page,370,Direct,Germany
+295,72,01/11/2023,20:31:00,Tablet,Safari,Contact Us,385,Twitter,UK
+296,91,10/17/2023,18:38:00,Mobile,Safari,About Us,255,Google,Germany
+297,67,07/21/2023,00:39:00,Desktop,Edge,Home Page,88,Bing,France
+298,48,08/22/2023,20:51:00,Tablet,Safari,Product Page,107,Facebook,Canada
+299,83,02/18/2023,14:27:00,Mobile,Firefox,About Us,174,Facebook,USA
+300,16,09/30/2023,15:56:00,Tablet,Edge,Home Page,503,Bing,Germany
+301,66,11/11/2023,09:34:00,Desktop,Safari,About Us,307,Twitter,Canada
+302,64,02/22/2023,22:23:00,Tablet,Safari,Home Page,533,Twitter,Canada
+303,37,11/03/2023,06:56:00,Tablet,Edge,Home Page,415,Bing,USA
+304,36,06/06/2023,01:30:00,Mobile,Edge,About Us,181,Facebook,France
+305,57,11/13/2023,21:36:00,Tablet,Firefox,Blog,414,Twitter,UK
+306,88,09/04/2023,12:29:00,Desktop,Edge,Home Page,463,Twitter,UK
+307,14,02/15/2023,00:23:00,Desktop,Safari,About Us,114,Twitter,UK
+308,32,05/22/2023,23:45:00,Mobile,Chrome,Product Page,286,Direct,France
+309,71,05/19/2023,00:47:00,Desktop,Chrome,Contact Us,118,Direct,USA
+310,88,06/21/2023,22:42:00,Tablet,Firefox,Product Page,320,Facebook,Canada
+311,31,06/01/2023,10:35:00,Mobile,Chrome,Contact Us,327,Google,France
+312,90,12/09/2023,06:39:00,Tablet,Firefox,About Us,589,Facebook,UK
+313,24,09/27/2023,02:13:00,Tablet,Firefox,Blog,167,Facebook,France
+314,16,12/02/2023,13:10:00,Tablet,Edge,About Us,330,Bing,USA
+315,6,06/20/2023,15:21:00,Desktop,Edge,About Us,237,Bing,France
+316,46,09/12/2023,04:08:00,Mobile,Chrome,Contact Us,568,Google,France
+317,32,04/25/2023,12:33:00,Tablet,Firefox,About Us,219,Facebook,USA
+318,58,11/09/2023,15:41:00,Desktop,Safari,Home Page,507,Google,Germany
+319,24,01/30/2023,19:28:00,Desktop,Edge,About Us,474,Facebook,UK
+320,20,03/17/2023,17:10:00,Tablet,Edge,Contact Us,239,Google,France
+321,6,01/31/2023,18:09:00,Desktop,Firefox,Product Page,155,Facebook,France
+322,22,05/30/2023,15:58:00,Mobile,Chrome,Contact Us,98,Bing,France
+323,45,06/26/2023,02:32:00,Tablet,Edge,Blog,217,Direct,UK
+324,17,12/21/2023,22:32:00,Tablet,Safari,Blog,132,Twitter,Canada
+325,25,11/09/2023,17:38:00,Desktop,Safari,Contact Us,467,Direct,USA
+326,7,01/19/2023,03:54:00,Desktop,Safari,About Us,172,Facebook,France
+327,4,07/04/2023,17:25:00,Tablet,Chrome,Home Page,208,Google,Germany
+328,20,02/13/2023,07:35:00,Desktop,Firefox,About Us,70,Google,France
+329,32,02/12/2023,15:01:00,Desktop,Safari,Contact Us,406,Google,Canada
+330,79,07/20/2023,00:40:00,Tablet,Edge,About Us,555,Facebook,UK
+331,18,01/24/2023,13:29:00,Desktop,Firefox,About Us,59,Direct,Canada
+332,4,07/27/2023,10:47:00,Mobile,Firefox,Home Page,26,Direct,UK
+333,84,10/30/2023,03:18:00,Tablet,Safari,Product Page,416,Direct,USA
+334,15,10/18/2023,07:07:00,Desktop,Safari,About Us,443,Twitter,USA
+335,6,12/30/2023,13:15:00,Mobile,Chrome,Product Page,545,Facebook,Germany
+336,90,10/10/2023,19:34:00,Desktop,Firefox,Blog,243,Twitter,USA
+337,43,07/30/2023,08:23:00,Tablet,Chrome,Contact Us,175,Google,Germany
+338,12,03/20/2023,06:04:00,Desktop,Safari,Contact Us,465,Bing,France
+339,40,09/10/2023,15:09:00,Tablet,Safari,Home Page,506,Twitter,UK
+340,72,01/02/2023,11:20:00,Tablet,Edge,Home Page,470,Facebook,France
+341,33,02/20/2023,04:44:00,Desktop,Edge,Product Page,285,Twitter,France
+342,23,11/01/2023,08:37:00,Tablet,Firefox,Blog,60,Direct,Germany
+343,6,11/22/2023,01:32:00,Mobile,Firefox,About Us,481,Direct,UK
+344,32,07/25/2023,13:24:00,Tablet,Chrome,Home Page,430,Google,Canada
+345,74,11/26/2023,16:07:00,Mobile,Chrome,Product Page,190,Facebook,Canada
+346,13,08/18/2023,11:48:00,Mobile,Edge,Product Page,397,Google,Canada
+347,64,06/26/2023,05:45:00,Mobile,Chrome,Contact Us,38,Facebook,Canada
+348,4,03/19/2023,18:13:00,Mobile,Safari,About Us,549,Bing,Canada
+349,1,04/07/2023,18:37:00,Mobile,Firefox,Contact Us,561,Direct,Canada
+350,1,01/22/2023,20:56:00,Mobile,Chrome,Contact Us,44,Bing,Germany
+351,92,12/26/2023,21:26:00,Desktop,Safari,Blog,490,Twitter,France
+352,53,01/28/2023,15:42:00,Desktop,Edge,Contact Us,554,Google,Canada
+353,28,07/19/2023,04:47:00,Mobile,Chrome,Blog,256,Direct,France
+354,86,10/24/2023,14:44:00,Mobile,Edge,Home Page,244,Twitter,Germany
+355,51,07/13/2023,05:26:00,Mobile,Chrome,About Us,336,Facebook,USA
+356,27,08/25/2023,12:28:00,Mobile,Safari,Contact Us,464,Google,Germany
+357,53,10/20/2023,18:17:00,Mobile,Chrome,Home Page,107,Twitter,France
+358,64,11/14/2023,14:49:00,Mobile,Edge,Blog,408,Direct,UK
+359,60,07/17/2023,02:08:00,Desktop,Chrome,Home Page,236,Bing,Canada
+360,96,05/18/2023,02:18:00,Desktop,Safari,Product Page,71,Facebook,France
+361,9,12/18/2023,19:18:00,Mobile,Chrome,About Us,317,Bing,Canada
+362,7,04/08/2023,01:36:00,Tablet,Firefox,Product Page,314,Bing,Canada
+363,58,12/08/2023,12:07:00,Tablet,Chrome,About Us,314,Facebook,Germany
+364,92,05/26/2023,09:11:00,Tablet,Safari,Contact Us,29,Twitter,Germany
+365,60,07/01/2023,04:22:00,Mobile,Firefox,About Us,88,Bing,France
+366,22,10/30/2023,09:12:00,Desktop,Firefox,Home Page,133,Google,UK
+367,18,09/22/2023,08:38:00,Mobile,Safari,Home Page,284,Bing,USA
+368,25,05/19/2023,16:14:00,Tablet,Chrome,Contact Us,321,Twitter,USA
+369,98,06/26/2023,07:31:00,Desktop,Firefox,Contact Us,397,Facebook,Canada
+370,87,02/13/2023,01:06:00,Tablet,Chrome,Product Page,306,Twitter,Germany
+371,53,09/21/2023,17:28:00,Mobile,Chrome,Home Page,142,Facebook,France
+372,95,08/04/2023,07:47:00,Tablet,Chrome,Contact Us,511,Direct,UK
+373,44,11/27/2023,17:53:00,Tablet,Firefox,Product Page,486,Google,France
+374,20,12/31/2023,12:18:00,Desktop,Firefox,About Us,580,Direct,Germany
+375,15,06/08/2023,08:19:00,Mobile,Chrome,Product Page,160,Bing,Germany
+376,96,01/03/2023,12:46:00,Tablet,Firefox,About Us,558,Google,Germany
+377,94,03/27/2023,20:25:00,Desktop,Chrome,About Us,371,Direct,France
+378,100,07/22/2023,01:43:00,Tablet,Edge,Product Page,396,Bing,UK
+379,56,09/09/2023,10:08:00,Mobile,Safari,Contact Us,467,Facebook,Germany
+380,23,07/13/2023,06:00:00,Tablet,Chrome,About Us,444,Facebook,Canada
+381,71,03/16/2023,01:02:00,Tablet,Edge,About Us,311,Bing,USA
+382,6,08/23/2023,15:20:00,Tablet,Safari,Contact Us,139,Facebook,Germany
+383,57,07/18/2023,08:35:00,Mobile,Edge,Contact Us,516,Twitter,UK
+384,84,03/02/2023,15:11:00,Tablet,Chrome,Blog,575,Direct,France
+385,7,10/11/2023,03:34:00,Mobile,Safari,Blog,357,Twitter,USA
+386,42,12/17/2023,07:03:00,Mobile,Chrome,About Us,305,Twitter,Germany
+387,4,04/23/2023,00:06:00,Desktop,Edge,Blog,558,Direct,UK
+388,59,01/08/2023,20:22:00,Desktop,Firefox,Home Page,486,Twitter,USA
+389,64,11/18/2023,05:32:00,Tablet,Chrome,Blog,534,Facebook,France
+390,29,02/07/2023,19:48:00,Desktop,Chrome,Home Page,343,Bing,France
+391,3,11/29/2023,02:43:00,Tablet,Chrome,Contact Us,292,Bing,Germany
+392,4,10/20/2023,17:31:00,Desktop,Edge,Contact Us,484,Bing,UK
+393,80,06/01/2023,13:46:00,Desktop,Safari,Contact Us,358,Direct,USA
+394,29,03/11/2023,15:51:00,Tablet,Chrome,Contact Us,310,Google,UK
+395,72,03/01/2023,21:10:00,Mobile,Safari,Contact Us,502,Facebook,Canada
+396,20,07/16/2023,22:26:00,Tablet,Safari,Contact Us,121,Direct,Canada
+397,43,05/20/2023,13:08:00,Mobile,Chrome,About Us,422,Facebook,Canada
+398,38,01/05/2023,02:09:00,Desktop,Edge,About Us,207,Direct,Canada
+399,71,04/28/2023,02:32:00,Mobile,Edge,Contact Us,572,Twitter,France
+400,68,02/04/2023,07:29:00,Mobile,Safari,Home Page,478,Bing,USA

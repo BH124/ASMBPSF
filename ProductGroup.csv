@@ -1,0 +1,16 @@
+ProductGroupID,GroupName,GroupDescription,Category,SubCategory,ParentGroupID,CreateDate,UpdateDate,IsActive,Priority
+1,Group 1,Description 1,Category 2,SubCategory 2,,2020-01-01,2023-01-01,1,High
+2,Group 2,Description 2,Category 3,SubCategory 3,,2020-01-01,2023-01-01,1,High
+3,Group 3,Description 3,Category 1,SubCategory 1,,2020-01-01,2023-01-01,1,High
+4,Group 4,Description 4,Category 2,SubCategory 2,,2020-01-01,2023-01-01,1,High
+5,Group 5,Description 5,Category 3,SubCategory 3,,2020-01-01,2023-01-01,1,High
+6,Group 6,Description 6,Category 1,SubCategory 1,,2020-01-01,2023-01-01,1,High
+7,Group 7,Description 7,Category 2,SubCategory 2,,2020-01-01,2023-01-01,1,High
+8,Group 8,Description 8,Category 3,SubCategory 3,,2020-01-01,2023-01-01,1,High
+9,Group 9,Description 9,Category 1,SubCategory 1,,2020-01-01,2023-01-01,1,High
+10,Group 10,Description 10,Category 2,SubCategory 2,,2020-01-01,2023-01-01,1,High
+11,Group 11,Description 11,Category 3,SubCategory 3,,2020-01-01,2023-01-01,1,High
+12,Group 12,Description 12,Category 1,SubCategory 1,,2020-01-01,2023-01-01,1,High
+13,Group 13,Description 13,Category 2,SubCategory 2,,2020-01-01,2023-01-01,1,High
+14,Group 14,Description 14,Category 3,SubCategory 3,,2020-01-01,2023-01-01,1,High
+15,Group 15,Description 15,Category 1,SubCategory 1,,2020-01-01,2023-01-01,1,High

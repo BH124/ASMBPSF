@@ -1,0 +1,1001 @@
+SaleID,ProductID,CustomerID,SaleDate,Quantity,UnitPrice,TotalAmount,PaymentMethod,SalesChannel,Region
+1,9,31,01/01/2023,9,173,1557,Online,In-store,East
+2,9,56,01/02/2023,8,107,856,Cash,Online,East
+3,7,29,01/03/2023,6,128,768,Debit Card,In-store,West
+4,3,19,01/04/2023,4,100,400,Debit Card,Online,North
+5,9,33,01/05/2023,5,136,680,Cash,In-store,West
+6,8,22,01/06/2023,5,125,625,Credit Card,In-store,East
+7,3,37,01/07/2023,8,194,1552,Online,Online,North
+8,2,28,01/08/2023,2,58,116,Cash,In-store,East
+9,6,100,01/09/2023,1,134,134,Online,In-store,West
+10,5,32,01/10/2023,3,137,411,Cash,Online,West
+11,5,14,01/11/2023,4,176,704,Credit Card,In-store,South
+12,6,35,01/12/2023,6,77,462,Credit Card,In-store,South
+13,8,86,01/13/2023,1,59,59,Online,Online,West
+14,4,14,01/14/2023,1,83,83,Credit Card,In-store,East
+15,7,65,01/15/2023,6,72,432,Cash,In-store,North
+16,5,61,01/16/2023,8,166,1328,Credit Card,Online,South
+17,4,65,01/17/2023,3,56,168,Cash,Online,East
+18,8,40,01/18/2023,7,184,1288,Cash,Online,North
+19,7,1,01/19/2023,1,173,173,Debit Card,Online,South
+20,2,66,01/20/2023,4,172,688,Online,In-store,South
+21,4,88,01/21/2023,5,177,885,Online,In-store,South
+22,6,27,01/22/2023,7,54,378,Debit Card,Online,North
+23,9,24,01/23/2023,6,130,780,Online,Online,South
+24,5,34,01/24/2023,8,116,928,Credit Card,Online,South
+25,7,85,01/25/2023,4,145,580,Debit Card,Online,South
+26,4,76,01/26/2023,5,173,865,Cash,Online,North
+27,3,25,01/27/2023,4,116,464,Online,In-store,East
+28,1,13,01/28/2023,2,52,104,Debit Card,Online,North
+29,5,98,01/29/2023,2,147,294,Cash,In-store,West
+30,3,49,01/30/2023,2,195,390,Credit Card,Online,South
+31,5,94,01/31/2023,2,109,218,Cash,In-store,East
+32,2,28,02/01/2023,1,169,169,Credit Card,Online,South
+33,8,20,02/02/2023,7,165,1155,Cash,In-store,South
+34,9,44,02/03/2023,8,80,640,Credit Card,In-store,West
+35,3,20,02/04/2023,7,105,735,Online,Online,East
+36,9,89,02/05/2023,5,193,965,Online,Online,West
+37,8,90,02/06/2023,8,56,448,Credit Card,In-store,West
+38,2,42,02/07/2023,4,188,752,Debit Card,In-store,North
+39,7,68,02/08/2023,3,105,315,Debit Card,In-store,North
+40,9,93,02/09/2023,5,69,345,Cash,In-store,West
+41,6,31,02/10/2023,9,107,963,Debit Card,Online,North
+42,4,53,02/11/2023,6,166,996,Online,Online,South
+43,1,42,02/12/2023,2,106,212,Online,Online,East
+44,1,48,02/13/2023,9,117,1053,Debit Card,In-store,South
+45,3,86,02/14/2023,2,136,272,Credit Card,Online,East
+46,9,36,02/15/2023,1,65,65,Cash,In-store,West
+47,9,24,02/16/2023,9,56,504,Cash,In-store,East
+48,3,5,02/17/2023,5,160,800,Debit Card,Online,North
+49,7,64,02/18/2023,9,109,981,Debit Card,In-store,West
+50,6,14,02/19/2023,1,64,64,Debit Card,Online,South
+51,7,13,02/20/2023,7,120,840,Credit Card,Online,East
+52,7,92,02/21/2023,5,119,595,Online,In-store,East
+53,7,34,02/22/2023,7,183,1281,Credit Card,Online,North
+54,4,38,02/23/2023,1,104,104,Cash,In-store,East
+55,9,7,02/24/2023,9,127,1143,Credit Card,In-store,North
+56,3,71,02/25/2023,6,143,858,Online,Online,South
+57,2,40,02/26/2023,4,113,452,Debit Card,Online,West
+58,5,7,02/27/2023,9,114,1026,Cash,Online,East
+59,9,76,02/28/2023,8,61,488,Credit Card,In-store,South
+60,2,60,03/01/2023,8,119,952,Cash,Online,West
+61,7,17,03/02/2023,9,156,1404,Credit Card,In-store,South
+62,6,95,03/03/2023,3,50,150,Online,In-store,North
+63,2,2,03/04/2023,6,109,654,Credit Card,Online,East
+64,3,98,03/05/2023,5,158,790,Cash,In-store,North
+65,5,18,03/06/2023,9,128,1152,Debit Card,Online,West
+66,8,58,03/07/2023,7,51,357,Online,Online,South
+67,7,65,03/08/2023,6,69,414,Debit Card,In-store,East
+68,5,4,03/09/2023,5,63,315,Online,Online,North
+69,6,1,03/10/2023,9,134,1206,Credit Card,In-store,North
+70,9,97,03/11/2023,6,94,564,Credit Card,Online,North
+71,4,42,03/12/2023,2,67,134,Online,In-store,South
+72,1,99,03/13/2023,1,50,50,Debit Card,Online,North
+73,1,17,03/14/2023,8,63,504,Credit Card,Online,East
+74,6,19,03/15/2023,1,162,162,Online,In-store,North
+75,8,21,03/16/2023,5,136,680,Cash,Online,South
+76,6,58,03/17/2023,1,167,167,Debit Card,In-store,East
+77,1,56,03/18/2023,6,119,714,Cash,In-store,West
+78,9,22,03/19/2023,5,126,630,Credit Card,In-store,North
+79,7,48,03/20/2023,8,129,1032,Debit Card,In-store,North
+80,6,75,03/21/2023,2,198,396,Online,Online,East
+81,2,65,03/22/2023,2,98,196,Credit Card,In-store,South
+82,8,9,03/23/2023,1,140,140,Cash,In-store,South
+83,5,47,03/24/2023,4,177,708,Credit Card,In-store,West
+84,4,96,03/25/2023,2,102,204,Cash,In-store,South
+85,7,78,03/26/2023,1,66,66,Credit Card,In-store,West
+86,2,46,03/27/2023,4,146,584,Online,Online,South
+87,5,38,03/28/2023,2,57,114,Cash,In-store,North
+88,1,36,03/29/2023,7,72,504,Debit Card,Online,South
+89,9,87,03/30/2023,2,79,158,Cash,In-store,South
+90,6,60,03/31/2023,6,63,378,Cash,In-store,East
+91,5,84,04/01/2023,6,148,888,Credit Card,In-store,West
+92,3,99,04/02/2023,7,179,1253,Debit Card,Online,West
+93,8,24,04/03/2023,5,76,380,Online,In-store,West
+94,2,61,04/04/2023,3,150,450,Credit Card,In-store,North
+95,3,22,04/05/2023,3,102,306,Debit Card,In-store,West
+96,2,71,04/06/2023,9,172,1548,Online,In-store,East
+97,1,94,04/07/2023,2,146,292,Online,In-store,North
+98,8,51,04/08/2023,2,112,224,Cash,Online,West
+99,2,64,04/09/2023,3,90,270,Debit Card,In-store,East
+100,9,100,04/10/2023,6,89,534,Debit Card,Online,South
+101,1,3,04/11/2023,2,72,144,Credit Card,Online,North
+102,8,81,04/12/2023,6,123,738,Online,Online,South
+103,1,54,04/13/2023,8,93,744,Cash,In-store,North
+104,6,47,04/14/2023,4,185,740,Credit Card,In-store,East
+105,3,34,04/15/2023,1,54,54,Debit Card,Online,West
+106,6,45,04/16/2023,7,195,1365,Credit Card,Online,East
+107,2,88,04/17/2023,2,132,264,Debit Card,Online,North
+108,4,35,04/18/2023,7,112,784,Cash,In-store,North
+109,4,87,04/19/2023,2,157,314,Credit Card,In-store,South
+110,2,18,04/20/2023,8,164,1312,Cash,In-store,South
+111,9,75,04/21/2023,2,152,304,Online,Online,West
+112,7,63,04/22/2023,8,75,600,Online,Online,North
+113,9,50,04/23/2023,6,154,924,Online,In-store,South
+114,2,80,04/24/2023,7,61,427,Debit Card,Online,North
+115,6,85,04/25/2023,9,78,702,Credit Card,In-store,West
+116,8,74,04/26/2023,2,161,322,Credit Card,Online,South
+117,1,3,04/27/2023,5,130,650,Debit Card,Online,West
+118,2,35,04/28/2023,5,192,960,Debit Card,In-store,West
+119,6,57,04/29/2023,3,78,234,Online,Online,South
+120,3,10,04/30/2023,8,114,912,Credit Card,Online,South
+121,1,31,05/01/2023,4,57,228,Online,Online,West
+122,1,68,05/02/2023,9,62,558,Credit Card,Online,South
+123,5,20,05/03/2023,1,112,112,Online,In-store,East
+124,7,56,05/04/2023,9,118,1062,Cash,In-store,North
+125,4,92,05/05/2023,8,142,1136,Online,In-store,West
+126,2,54,05/06/2023,9,197,1773,Debit Card,In-store,South
+127,9,13,05/07/2023,3,140,420,Credit Card,Online,West
+128,6,7,05/08/2023,7,76,532,Online,Online,West
+129,6,39,05/09/2023,8,99,792,Debit Card,In-store,North
+130,5,86,05/10/2023,7,106,742,Credit Card,In-store,South
+131,3,4,05/11/2023,3,105,315,Online,In-store,West
+132,8,66,05/12/2023,5,120,600,Online,Online,West
+133,9,71,05/13/2023,8,55,440,Debit Card,In-store,South
+134,8,29,05/14/2023,4,175,700,Credit Card,Online,East
+135,4,18,05/15/2023,8,106,848,Credit Card,In-store,South
+136,5,25,05/16/2023,3,134,402,Debit Card,In-store,South
+137,9,76,05/17/2023,9,134,1206,Debit Card,Online,West
+138,7,41,05/18/2023,2,110,220,Credit Card,Online,East
+139,4,61,05/19/2023,1,94,94,Online,In-store,South
+140,9,8,05/20/2023,5,195,975,Cash,Online,North
+141,9,3,05/21/2023,5,167,835,Cash,In-store,South
+142,6,11,05/22/2023,8,195,1560,Debit Card,Online,South
+143,2,52,05/23/2023,8,125,1000,Credit Card,In-store,North
+144,4,48,05/24/2023,4,70,280,Cash,In-store,East
+145,4,16,05/25/2023,7,131,917,Cash,In-store,South
+146,4,67,05/26/2023,6,62,372,Online,Online,West
+147,3,71,05/27/2023,8,143,1144,Debit Card,In-store,West
+148,7,36,05/28/2023,2,99,198,Cash,In-store,North
+149,6,53,05/29/2023,2,121,242,Cash,Online,South
+150,6,53,05/30/2023,1,96,96,Cash,In-store,West
+151,3,82,05/31/2023,8,84,672,Cash,Online,North
+152,6,61,06/01/2023,3,156,468,Credit Card,Online,South
+153,7,67,06/02/2023,6,116,696,Cash,In-store,South
+154,2,11,06/03/2023,8,126,1008,Credit Card,Online,North
+155,6,1,06/04/2023,4,109,436,Credit Card,In-store,East
+156,1,94,06/05/2023,1,187,187,Credit Card,Online,East
+157,6,58,06/06/2023,9,95,855,Cash,Online,South
+158,5,86,06/07/2023,2,152,304,Debit Card,Online,West
+159,9,47,06/08/2023,3,97,291,Credit Card,Online,South
+160,4,79,06/09/2023,5,67,335,Cash,Online,East
+161,8,7,06/10/2023,3,113,339,Credit Card,Online,North
+162,6,34,06/11/2023,4,53,212,Credit Card,In-store,West
+163,5,87,06/12/2023,2,119,238,Online,Online,North
+164,6,87,06/13/2023,9,153,1377,Credit Card,Online,South
+165,3,68,06/14/2023,8,148,1184,Credit Card,Online,West
+166,7,90,06/15/2023,5,93,465,Debit Card,Online,East
+167,1,3,06/16/2023,1,88,88,Cash,Online,West
+168,6,94,06/17/2023,8,50,400,Cash,In-store,West
+169,8,93,06/18/2023,4,180,720,Debit Card,In-store,North
+170,2,47,06/19/2023,3,108,324,Credit Card,Online,East
+171,7,28,06/20/2023,7,111,777,Credit Card,Online,West
+172,8,30,06/21/2023,3,195,585,Credit Card,In-store,North
+173,1,58,06/22/2023,7,119,833,Debit Card,Online,East
+174,2,10,06/23/2023,2,65,130,Credit Card,Online,North
+175,3,4,06/24/2023,5,162,810,Cash,In-store,East
+176,5,59,06/25/2023,4,198,792,Online,Online,South
+177,1,69,06/26/2023,4,155,620,Debit Card,In-store,South
+178,7,20,06/27/2023,5,188,940,Credit Card,In-store,East
+179,7,76,06/28/2023,1,192,192,Credit Card,In-store,North
+180,9,56,06/29/2023,7,55,385,Online,Online,North
+181,7,40,06/30/2023,9,155,1395,Credit Card,Online,South
+182,6,32,07/01/2023,8,112,896,Credit Card,In-store,North
+183,2,72,07/02/2023,1,67,67,Debit Card,Online,West
+184,6,34,07/03/2023,9,175,1575,Debit Card,In-store,North
+185,5,50,07/04/2023,9,176,1584,Debit Card,Online,North
+186,9,54,07/05/2023,7,193,1351,Credit Card,In-store,South
+187,4,34,07/06/2023,2,127,254,Credit Card,Online,West
+188,5,62,07/07/2023,6,124,744,Credit Card,In-store,North
+189,7,54,07/08/2023,4,66,264,Credit Card,In-store,West
+190,3,19,07/09/2023,9,87,783,Cash,Online,East
+191,5,43,07/10/2023,9,79,711,Cash,In-store,East
+192,8,69,07/11/2023,4,139,556,Online,Online,East
+193,6,69,07/12/2023,8,199,1592,Credit Card,In-store,West
+194,2,51,07/13/2023,6,58,348,Credit Card,In-store,North
+195,4,63,07/14/2023,6,78,468,Debit Card,In-store,East
+196,8,79,07/15/2023,6,123,738,Online,Online,East
+197,5,83,07/16/2023,9,62,558,Cash,In-store,South
+198,6,26,07/17/2023,3,132,396,Cash,Online,West
+199,2,54,07/18/2023,2,166,332,Online,In-store,South
+200,3,94,07/19/2023,8,186,1488,Cash,In-store,West
+201,4,83,07/20/2023,2,194,388,Cash,In-store,East
+202,7,76,07/21/2023,1,133,133,Credit Card,Online,West
+203,2,19,07/22/2023,1,154,154,Online,In-store,South
+204,3,35,07/23/2023,6,57,342,Debit Card,In-store,North
+205,7,92,07/24/2023,6,149,894,Online,In-store,South
+206,1,31,07/25/2023,2,141,282,Online,In-store,South
+207,6,52,07/26/2023,7,117,819,Debit Card,In-store,West
+208,4,29,07/27/2023,5,61,305,Cash,In-store,South
+209,6,31,07/28/2023,3,97,291,Cash,Online,North
+210,3,76,07/29/2023,1,197,197,Cash,In-store,West
+211,9,90,07/30/2023,7,59,413,Online,In-store,East
+212,8,47,07/31/2023,2,197,394,Debit Card,Online,South
+213,4,3,08/01/2023,3,186,558,Debit Card,In-store,North
+214,1,55,08/02/2023,5,94,470,Online,Online,East
+215,5,6,08/03/2023,4,168,672,Online,Online,North
+216,7,74,08/04/2023,9,184,1656,Credit Card,In-store,North
+217,3,78,08/05/2023,2,85,170,Debit Card,Online,South
+218,8,82,08/06/2023,3,103,309,Online,Online,East
+219,4,62,08/07/2023,6,90,540,Debit Card,Online,East
+220,2,7,08/08/2023,9,68,612,Debit Card,Online,West
+221,2,1,08/09/2023,3,107,321,Online,In-store,South
+222,1,37,08/10/2023,3,117,351,Online,Online,South
+223,9,21,08/11/2023,2,108,216,Online,In-store,South
+224,1,59,08/12/2023,1,94,94,Online,In-store,East
+225,9,2,08/13/2023,4,96,384,Online,Online,East
+226,6,5,08/14/2023,4,162,648,Cash,In-store,West
+227,4,70,08/15/2023,9,143,1287,Cash,Online,North
+228,6,32,08/16/2023,7,165,1155,Cash,Online,South
+229,9,25,08/17/2023,5,106,530,Debit Card,In-store,North
+230,4,20,08/18/2023,7,106,742,Cash,Online,East
+231,7,64,08/19/2023,9,57,513,Debit Card,In-store,East
+232,2,25,08/20/2023,3,192,576,Debit Card,In-store,East
+233,7,66,08/21/2023,6,112,672,Online,Online,South
+234,2,55,08/22/2023,8,144,1152,Credit Card,Online,East
+235,3,85,08/23/2023,7,122,854,Debit Card,Online,South
+236,2,55,08/24/2023,2,126,252,Cash,Online,South
+237,3,70,08/25/2023,3,71,213,Credit Card,Online,West
+238,7,65,08/26/2023,8,147,1176,Credit Card,In-store,East
+239,7,30,08/27/2023,4,78,312,Online,Online,South
+240,2,98,08/28/2023,9,128,1152,Credit Card,In-store,North
+241,4,30,08/29/2023,5,153,765,Cash,Online,South
+242,4,72,08/30/2023,8,162,1296,Online,Online,South
+243,3,34,08/31/2023,6,131,786,Cash,In-store,West
+244,4,24,09/01/2023,8,180,1440,Online,Online,West
+245,3,49,09/02/2023,7,154,1078,Debit Card,In-store,West
+246,4,23,09/03/2023,6,94,564,Credit Card,Online,South
+247,4,12,09/04/2023,9,141,1269,Online,In-store,South
+248,1,40,09/05/2023,6,67,402,Cash,In-store,East
+249,6,97,09/06/2023,3,178,534,Debit Card,In-store,West
+250,2,41,09/07/2023,4,67,268,Debit Card,In-store,South
+251,3,78,09/08/2023,6,179,1074,Debit Card,In-store,East
+252,2,44,09/09/2023,7,140,980,Online,In-store,West
+253,7,4,09/10/2023,4,140,560,Debit Card,In-store,West
+254,3,59,09/11/2023,3,196,588,Debit Card,In-store,West
+255,2,58,09/12/2023,2,125,250,Online,In-store,North
+256,4,17,09/13/2023,8,112,896,Debit Card,Online,West
+257,7,67,09/14/2023,8,86,688,Debit Card,Online,South
+258,4,34,09/15/2023,4,151,604,Debit Card,In-store,East
+259,1,74,09/16/2023,6,152,912,Credit Card,In-store,South
+260,5,55,09/17/2023,2,117,234,Cash,Online,North
+261,3,17,09/18/2023,4,94,376,Credit Card,In-store,South
+262,8,63,09/19/2023,5,170,850,Debit Card,In-store,North
+263,6,82,09/20/2023,7,199,1393,Credit Card,Online,West
+264,6,92,09/21/2023,4,175,700,Cash,In-store,East
+265,4,61,09/22/2023,9,121,1089,Online,In-store,South
+266,2,5,09/23/2023,3,181,543,Debit Card,Online,North
+267,9,63,09/24/2023,3,180,540,Online,Online,North
+268,2,85,09/25/2023,2,66,132,Cash,In-store,North
+269,5,19,09/26/2023,1,87,87,Credit Card,Online,South
+270,7,96,09/27/2023,6,68,408,Cash,Online,East
+271,3,49,09/28/2023,7,93,651,Debit Card,In-store,West
+272,7,2,09/29/2023,8,115,920,Debit Card,In-store,West
+273,8,96,09/30/2023,4,187,748,Credit Card,Online,West
+274,6,31,10/01/2023,1,63,63,Cash,In-store,North
+275,1,57,10/02/2023,3,131,393,Cash,In-store,East
+276,2,19,10/03/2023,1,61,61,Cash,Online,West
+277,6,15,10/04/2023,4,126,504,Cash,Online,East
+278,7,46,10/05/2023,1,109,109,Cash,Online,South
+279,9,7,10/06/2023,2,60,120,Credit Card,Online,South
+280,9,100,10/07/2023,5,102,510,Credit Card,In-store,West
+281,3,36,10/08/2023,1,86,86,Debit Card,Online,West
+282,7,79,10/09/2023,5,161,805,Cash,Online,North
+283,1,39,10/10/2023,9,162,1458,Debit Card,In-store,South
+284,7,78,10/11/2023,4,163,652,Online,In-store,East
+285,1,56,10/12/2023,5,72,360,Online,In-store,East
+286,5,36,10/13/2023,1,50,50,Debit Card,In-store,North
+287,4,4,10/14/2023,1,123,123,Debit Card,Online,West
+288,4,83,10/15/2023,8,159,1272,Online,Online,West
+289,8,99,10/16/2023,3,183,549,Debit Card,Online,North
+290,1,10,10/17/2023,8,54,432,Cash,In-store,West
+291,3,67,10/18/2023,8,165,1320,Credit Card,Online,North
+292,3,31,10/19/2023,9,143,1287,Online,Online,East
+293,4,32,10/20/2023,8,149,1192,Online,In-store,South
+294,6,5,10/21/2023,1,154,154,Online,Online,North
+295,7,76,10/22/2023,7,127,889,Credit Card,In-store,North
+296,1,57,10/23/2023,6,50,300,Cash,Online,East
+297,7,67,10/24/2023,7,131,917,Cash,Online,South
+298,1,56,10/25/2023,9,100,900,Online,Online,North
+299,4,48,10/26/2023,8,161,1288,Debit Card,In-store,East
+300,8,93,10/27/2023,8,76,608,Online,Online,North
+301,4,88,10/28/2023,4,145,580,Cash,In-store,East
+302,9,53,10/29/2023,1,138,138,Cash,Online,North
+303,1,59,10/30/2023,3,153,459,Debit Card,In-store,North
+304,4,96,10/31/2023,1,112,112,Credit Card,Online,West
+305,9,7,11/01/2023,6,164,984,Cash,Online,North
+306,6,81,11/02/2023,4,185,740,Online,In-store,North
+307,8,59,11/03/2023,2,108,216,Cash,In-store,South
+308,6,7,11/04/2023,9,145,1305,Online,In-store,West
+309,8,88,11/05/2023,3,66,198,Debit Card,Online,South
+310,5,77,11/06/2023,1,158,158,Online,In-store,East
+311,2,17,11/07/2023,2,85,170,Credit Card,In-store,West
+312,1,100,11/08/2023,6,150,900,Cash,In-store,North
+313,7,65,11/09/2023,4,117,468,Credit Card,In-store,North
+314,8,28,11/10/2023,3,108,324,Cash,Online,South
+315,8,39,11/11/2023,4,179,716,Online,Online,South
+316,9,60,11/12/2023,5,70,350,Online,In-store,East
+317,5,79,11/13/2023,2,50,100,Cash,Online,South
+318,3,92,11/14/2023,3,63,189,Online,In-store,North
+319,8,15,11/15/2023,5,68,340,Cash,Online,West
+320,6,78,11/16/2023,7,131,917,Cash,In-store,South
+321,4,62,11/17/2023,2,93,186,Debit Card,In-store,South
+322,7,9,11/18/2023,3,126,378,Cash,In-store,East
+323,5,62,11/19/2023,7,172,1204,Cash,In-store,South
+324,1,57,11/20/2023,5,140,700,Credit Card,In-store,South
+325,7,65,11/21/2023,5,197,985,Online,Online,South
+326,2,80,11/22/2023,4,55,220,Debit Card,Online,East
+327,9,84,11/23/2023,7,76,532,Debit Card,Online,South
+328,6,61,11/24/2023,5,160,800,Online,Online,North
+329,2,31,11/25/2023,3,177,531,Credit Card,In-store,North
+330,1,91,11/26/2023,5,186,930,Credit Card,Online,North
+331,6,14,11/27/2023,9,57,513,Credit Card,Online,East
+332,1,93,11/28/2023,7,78,546,Debit Card,In-store,North
+333,9,45,11/29/2023,1,130,130,Debit Card,Online,East
+334,3,83,11/30/2023,7,67,469,Debit Card,Online,East
+335,7,21,12/01/2023,4,99,396,Debit Card,Online,South
+336,9,30,12/02/2023,9,165,1485,Debit Card,In-store,East
+337,3,11,12/03/2023,5,178,890,Debit Card,In-store,South
+338,5,79,12/04/2023,9,90,810,Credit Card,In-store,South
+339,2,63,12/05/2023,3,72,216,Credit Card,Online,West
+340,2,64,12/06/2023,2,63,126,Credit Card,In-store,North
+341,3,76,12/07/2023,6,68,408,Debit Card,In-store,North
+342,3,41,12/08/2023,5,164,820,Cash,In-store,West
+343,7,29,12/09/2023,3,112,336,Debit Card,In-store,West
+344,8,1,12/10/2023,8,144,1152,Credit Card,In-store,South
+345,9,75,12/11/2023,6,71,426,Cash,Online,North
+346,4,26,12/12/2023,7,170,1190,Debit Card,Online,North
+347,5,78,12/13/2023,7,194,1358,Debit Card,In-store,West
+348,9,98,12/14/2023,2,187,374,Credit Card,In-store,East
+349,5,30,12/15/2023,5,79,395,Online,Online,East
+350,1,95,12/16/2023,6,117,702,Credit Card,Online,South
+351,1,98,12/17/2023,2,147,294,Debit Card,Online,North
+352,5,52,12/18/2023,6,55,330,Debit Card,Online,North
+353,8,63,12/19/2023,6,67,402,Online,In-store,West
+354,6,33,12/20/2023,2,181,362,Debit Card,Online,North
+355,3,36,12/21/2023,3,56,168,Cash,In-store,East
+356,7,63,12/22/2023,1,192,192,Cash,In-store,North
+357,1,45,12/23/2023,8,116,928,Cash,Online,West
+358,4,77,12/24/2023,5,86,430,Online,In-store,South
+359,7,90,12/25/2023,7,107,749,Credit Card,Online,East
+360,9,99,12/26/2023,5,58,290,Cash,In-store,North
+361,3,56,12/27/2023,6,156,936,Cash,In-store,South
+362,2,70,12/28/2023,4,139,556,Debit Card,Online,East
+363,1,85,12/29/2023,1,197,197,Credit Card,Online,South
+364,8,36,12/30/2023,2,146,292,Credit Card,In-store,West
+365,6,51,12/31/2023,9,102,918,Cash,In-store,North
+366,8,33,01/01/2024,1,54,54,Online,In-store,South
+367,7,8,01/02/2024,2,82,164,Cash,In-store,West
+368,4,50,01/03/2024,2,87,174,Debit Card,Online,South
+369,1,17,01/04/2024,4,56,224,Cash,Online,South
+370,5,97,01/05/2024,4,149,596,Cash,In-store,North
+371,1,28,01/06/2024,5,125,625,Online,Online,North
+372,3,31,01/07/2024,3,181,543,Cash,Online,West
+373,1,82,01/08/2024,8,162,1296,Debit Card,In-store,South
+374,5,67,01/09/2024,4,126,504,Online,In-store,South
+375,8,48,01/10/2024,8,193,1544,Debit Card,Online,South
+376,5,93,01/11/2024,4,143,572,Online,In-store,South
+377,7,3,01/12/2024,8,127,1016,Online,In-store,East
+378,6,14,01/13/2024,4,182,728,Online,In-store,West
+379,6,54,01/14/2024,7,188,1316,Debit Card,Online,East
+380,6,94,01/15/2024,5,185,925,Debit Card,Online,South
+381,3,26,01/16/2024,8,96,768,Debit Card,In-store,North
+382,7,75,01/17/2024,8,129,1032,Debit Card,In-store,West
+383,3,20,01/18/2024,4,73,292,Online,In-store,North
+384,5,92,01/19/2024,5,72,360,Cash,Online,North
+385,1,81,01/20/2024,8,62,496,Cash,In-store,South
+386,9,24,01/21/2024,4,142,568,Online,Online,East
+387,3,23,01/22/2024,2,176,352,Credit Card,In-store,East
+388,2,1,01/23/2024,3,84,252,Online,In-store,South
+389,7,46,01/24/2024,2,84,168,Cash,Online,West
+390,2,38,01/25/2024,8,127,1016,Debit Card,In-store,East
+391,4,56,01/26/2024,7,157,1099,Debit Card,Online,South
+392,3,99,01/27/2024,7,67,469,Online,In-store,West
+393,3,80,01/28/2024,7,131,917,Cash,Online,South
+394,9,70,01/29/2024,2,135,270,Cash,In-store,South
+395,3,7,01/30/2024,2,132,264,Online,In-store,South
+396,6,46,01/31/2024,2,144,288,Cash,Online,South
+397,3,23,02/01/2024,1,146,146,Debit Card,In-store,West
+398,7,3,02/02/2024,1,107,107,Cash,Online,West
+399,7,74,02/03/2024,2,112,224,Online,In-store,West
+400,6,87,02/04/2024,7,61,427,Credit Card,Online,South
+401,1,95,02/05/2024,3,174,522,Cash,In-store,West
+402,6,85,02/06/2024,8,101,808,Cash,Online,North
+403,4,54,02/07/2024,4,111,444,Cash,In-store,South
+404,1,62,02/08/2024,6,98,588,Credit Card,In-store,East
+405,8,43,02/09/2024,2,135,270,Cash,Online,North
+406,7,22,02/10/2024,8,191,1528,Credit Card,Online,East
+407,6,69,02/11/2024,2,71,142,Credit Card,Online,West
+408,8,59,02/12/2024,5,148,740,Debit Card,Online,East
+409,1,10,02/13/2024,7,61,427,Cash,Online,West
+410,2,90,02/14/2024,4,94,376,Online,In-store,North
+411,2,67,02/15/2024,5,167,835,Cash,Online,South
+412,7,45,02/16/2024,2,62,124,Debit Card,Online,East
+413,1,67,02/17/2024,3,84,252,Online,In-store,South
+414,3,79,02/18/2024,7,62,434,Online,In-store,South
+415,2,27,02/19/2024,1,174,174,Credit Card,Online,East
+416,7,88,02/20/2024,5,136,680,Debit Card,Online,South
+417,6,38,02/21/2024,9,79,711,Cash,In-store,South
+418,6,66,02/22/2024,3,186,558,Online,In-store,North
+419,6,69,02/23/2024,2,120,240,Online,Online,West
+420,9,54,02/24/2024,3,93,279,Cash,In-store,South
+421,2,14,02/25/2024,7,177,1239,Credit Card,Online,East
+422,5,44,02/26/2024,7,193,1351,Debit Card,In-store,West
+423,2,41,02/27/2024,2,98,196,Debit Card,In-store,East
+424,6,2,02/28/2024,7,121,847,Cash,Online,East
+425,6,45,02/29/2024,3,183,549,Cash,Online,East
+426,4,100,03/01/2024,7,63,441,Credit Card,Online,South
+427,5,7,03/02/2024,5,172,860,Cash,Online,North
+428,1,8,03/03/2024,3,160,480,Credit Card,Online,North
+429,4,41,03/04/2024,9,68,612,Cash,Online,East
+430,6,36,03/05/2024,4,78,312,Cash,In-store,East
+431,8,33,03/06/2024,2,84,168,Credit Card,In-store,South
+432,9,33,03/07/2024,4,170,680,Cash,In-store,South
+433,7,54,03/08/2024,9,117,1053,Online,In-store,South
+434,2,97,03/09/2024,5,156,780,Online,In-store,West
+435,3,35,03/10/2024,2,103,206,Online,In-store,South
+436,1,58,03/11/2024,4,66,264,Online,Online,West
+437,2,35,03/12/2024,7,64,448,Cash,Online,North
+438,1,88,03/13/2024,1,148,148,Cash,Online,East
+439,2,76,03/14/2024,4,197,788,Credit Card,In-store,West
+440,6,77,03/15/2024,1,183,183,Online,In-store,South
+441,5,86,03/16/2024,5,195,975,Debit Card,In-store,North
+442,3,19,03/17/2024,5,74,370,Online,Online,West
+443,9,68,03/18/2024,7,186,1302,Credit Card,Online,South
+444,2,52,03/19/2024,2,89,178,Online,In-store,East
+445,9,23,03/20/2024,8,101,808,Credit Card,Online,West
+446,7,96,03/21/2024,2,142,284,Online,Online,West
+447,7,95,03/22/2024,5,152,760,Credit Card,In-store,South
+448,5,24,03/23/2024,5,98,490,Online,Online,West
+449,3,62,03/24/2024,1,193,193,Online,In-store,North
+450,3,89,03/25/2024,5,159,795,Credit Card,Online,North
+451,4,50,03/26/2024,8,152,1216,Credit Card,Online,West
+452,8,82,03/27/2024,5,56,280,Debit Card,Online,West
+453,5,22,03/28/2024,9,123,1107,Debit Card,Online,East
+454,4,88,03/29/2024,9,140,1260,Online,In-store,West
+455,1,16,03/30/2024,4,119,476,Online,In-store,East
+456,3,4,03/31/2024,9,132,1188,Online,In-store,South
+457,2,21,04/01/2024,8,64,512,Credit Card,Online,East
+458,6,91,04/02/2024,6,195,1170,Online,In-store,East
+459,3,2,04/03/2024,9,114,1026,Cash,Online,South
+460,3,70,04/04/2024,2,87,174,Cash,Online,North
+461,1,51,04/05/2024,7,143,1001,Debit Card,In-store,East
+462,4,6,04/06/2024,7,55,385,Credit Card,In-store,West
+463,6,67,04/07/2024,9,65,585,Credit Card,Online,East
+464,2,61,04/08/2024,9,100,900,Online,In-store,South
+465,9,38,04/09/2024,1,117,117,Credit Card,In-store,North
+466,3,28,04/10/2024,9,193,1737,Credit Card,In-store,East
+467,9,17,04/11/2024,4,184,736,Online,In-store,West
+468,2,76,04/12/2024,7,102,714,Credit Card,In-store,West
+469,1,52,04/13/2024,7,132,924,Cash,Online,West
+470,3,39,04/14/2024,8,197,1576,Cash,In-store,South
+471,6,86,04/15/2024,2,122,244,Online,In-store,North
+472,3,3,04/16/2024,3,171,513,Debit Card,Online,North
+473,5,67,04/17/2024,9,128,1152,Online,In-store,West
+474,7,28,04/18/2024,6,129,774,Debit Card,Online,South
+475,6,45,04/19/2024,2,86,172,Credit Card,Online,East
+476,4,4,04/20/2024,7,158,1106,Credit Card,In-store,South
+477,7,59,04/21/2024,2,189,378,Debit Card,In-store,West
+478,4,34,04/22/2024,1,88,88,Credit Card,In-store,North
+479,1,87,04/23/2024,7,170,1190,Cash,In-store,West
+480,9,36,04/24/2024,3,154,462,Credit Card,In-store,North
+481,5,80,04/25/2024,4,120,480,Credit Card,Online,East
+482,1,36,04/26/2024,6,118,708,Online,In-store,East
+483,3,27,04/27/2024,3,117,351,Credit Card,In-store,West
+484,2,38,04/28/2024,3,183,549,Debit Card,Online,East
+485,6,87,04/29/2024,5,50,250,Cash,Online,West
+486,6,59,04/30/2024,9,181,1629,Credit Card,In-store,West
+487,5,3,05/01/2024,8,123,984,Online,In-store,North
+488,9,52,05/02/2024,8,122,976,Cash,In-store,West
+489,9,84,05/03/2024,6,56,336,Debit Card,Online,South
+490,9,38,05/04/2024,6,189,1134,Online,In-store,West
+491,7,40,05/05/2024,6,90,540,Debit Card,Online,West
+492,6,86,05/06/2024,4,111,444,Debit Card,Online,South
+493,9,85,05/07/2024,5,110,550,Cash,In-store,East
+494,8,57,05/08/2024,1,134,134,Credit Card,In-store,South
+495,5,10,05/09/2024,3,147,441,Debit Card,Online,West
+496,2,57,05/10/2024,7,195,1365,Online,In-store,South
+497,2,37,05/11/2024,2,142,284,Cash,In-store,South
+498,3,56,05/12/2024,6,132,792,Credit Card,In-store,West
+499,8,22,05/13/2024,8,139,1112,Debit Card,In-store,West
+500,7,61,05/14/2024,3,148,444,Cash,In-store,South
+501,9,3,05/15/2024,9,122,1098,Cash,Online,West
+502,7,94,05/16/2024,2,88,176,Credit Card,In-store,North
+503,8,91,05/17/2024,7,51,357,Debit Card,In-store,North
+504,8,48,05/18/2024,9,134,1206,Credit Card,Online,North
+505,8,20,05/19/2024,6,190,1140,Credit Card,Online,North
+506,4,3,05/20/2024,9,138,1242,Credit Card,Online,South
+507,9,94,05/21/2024,4,194,776,Credit Card,In-store,North
+508,5,14,05/22/2024,9,56,504,Debit Card,Online,South
+509,1,87,05/23/2024,1,191,191,Cash,In-store,North
+510,5,83,05/24/2024,6,85,510,Cash,Online,South
+511,5,70,05/25/2024,2,133,266,Online,In-store,West
+512,3,36,05/26/2024,9,176,1584,Debit Card,Online,West
+513,1,85,05/27/2024,9,69,621,Cash,Online,South
+514,8,54,05/28/2024,4,128,512,Credit Card,Online,West
+515,5,69,05/29/2024,8,86,688,Debit Card,Online,East
+516,3,69,05/30/2024,8,131,1048,Online,Online,North
+517,6,63,05/31/2024,9,120,1080,Online,In-store,South
+518,6,90,06/01/2024,1,97,97,Debit Card,In-store,East
+519,2,77,06/02/2024,4,59,236,Debit Card,Online,North
+520,1,48,06/03/2024,9,135,1215,Online,Online,West
+521,1,17,06/04/2024,4,143,572,Cash,Online,West
+522,9,70,06/05/2024,1,55,55,Cash,In-store,West
+523,2,16,06/06/2024,5,91,455,Credit Card,In-store,East
+524,2,61,06/07/2024,1,139,139,Credit Card,In-store,North
+525,4,34,06/08/2024,4,146,584,Credit Card,In-store,West
+526,1,41,06/09/2024,5,118,590,Online,Online,East
+527,3,87,06/10/2024,2,54,108,Debit Card,Online,East
+528,9,6,06/11/2024,7,114,798,Credit Card,Online,South
+529,1,27,06/12/2024,4,89,356,Cash,In-store,South
+530,6,83,06/13/2024,9,93,837,Credit Card,In-store,East
+531,3,99,06/14/2024,1,116,116,Debit Card,Online,East
+532,8,2,06/15/2024,5,104,520,Credit Card,In-store,South
+533,9,99,06/16/2024,7,126,882,Cash,Online,West
+534,3,51,06/17/2024,2,109,218,Online,In-store,West
+535,4,27,06/18/2024,4,172,688,Debit Card,Online,South
+536,3,28,06/19/2024,3,61,183,Debit Card,Online,South
+537,3,42,06/20/2024,1,54,54,Debit Card,In-store,East
+538,9,1,06/21/2024,4,134,536,Debit Card,Online,North
+539,4,49,06/22/2024,3,106,318,Cash,Online,North
+540,1,17,06/23/2024,2,186,372,Cash,Online,West
+541,2,8,06/24/2024,8,180,1440,Cash,In-store,East
+542,8,78,06/25/2024,1,113,113,Credit Card,In-store,East
+543,9,73,06/26/2024,1,193,193,Cash,In-store,East
+544,6,51,06/27/2024,6,78,468,Debit Card,Online,North
+545,1,99,06/28/2024,4,184,736,Debit Card,Online,West
+546,8,67,06/29/2024,8,168,1344,Online,Online,North
+547,5,12,06/30/2024,9,130,1170,Online,In-store,South
+548,3,51,07/01/2024,3,196,588,Debit Card,Online,North
+549,9,75,07/02/2024,4,113,452,Credit Card,In-store,South
+550,4,48,07/03/2024,5,93,465,Cash,Online,South
+551,3,39,07/04/2024,4,198,792,Cash,Online,East
+552,4,22,07/05/2024,2,113,226,Cash,In-store,South
+553,2,82,07/06/2024,1,144,144,Cash,In-store,East
+554,8,60,07/07/2024,5,171,855,Cash,In-store,North
+555,4,80,07/08/2024,7,189,1323,Debit Card,Online,East
+556,6,25,07/09/2024,7,54,378,Credit Card,Online,East
+557,8,28,07/10/2024,4,186,744,Cash,In-store,North
+558,8,45,07/11/2024,9,144,1296,Cash,Online,East
+559,5,16,07/12/2024,7,106,742,Online,In-store,West
+560,7,15,07/13/2024,8,85,680,Debit Card,Online,South
+561,4,40,07/14/2024,2,131,262,Credit Card,Online,West
+562,5,5,07/15/2024,7,97,679,Cash,Online,East
+563,9,79,07/16/2024,5,187,935,Cash,Online,South
+564,4,70,07/17/2024,4,146,584,Online,Online,South
+565,7,77,07/18/2024,7,184,1288,Cash,In-store,East
+566,6,66,07/19/2024,4,159,636,Online,Online,East
+567,2,5,07/20/2024,4,154,616,Online,In-store,West
+568,9,48,07/21/2024,3,63,189,Online,Online,North
+569,3,30,07/22/2024,1,158,158,Credit Card,Online,East
+570,9,68,07/23/2024,2,156,312,Credit Card,Online,West
+571,7,17,07/24/2024,1,99,99,Credit Card,Online,North
+572,7,53,07/25/2024,7,67,469,Credit Card,In-store,North
+573,7,20,07/26/2024,2,172,344,Credit Card,Online,East
+574,3,90,07/27/2024,3,157,471,Online,In-store,North
+575,1,65,07/28/2024,5,104,520,Online,Online,East
+576,6,22,07/29/2024,1,174,174,Credit Card,Online,South
+577,1,52,07/30/2024,3,156,468,Online,In-store,West
+578,2,39,07/31/2024,4,71,284,Credit Card,Online,West
+579,6,58,08/01/2024,6,56,336,Online,In-store,South
+580,2,42,08/02/2024,6,169,1014,Online,In-store,North
+581,4,34,08/03/2024,9,161,1449,Debit Card,Online,East
+582,3,55,08/04/2024,4,80,320,Debit Card,Online,North
+583,6,82,08/05/2024,4,119,476,Online,In-store,West
+584,7,25,08/06/2024,4,91,364,Cash,In-store,North
+585,3,87,08/07/2024,5,67,335,Cash,Online,West
+586,2,14,08/08/2024,9,119,1071,Cash,Online,South
+587,1,81,08/09/2024,6,99,594,Debit Card,Online,North
+588,4,82,08/10/2024,2,166,332,Debit Card,In-store,West
+589,7,16,08/11/2024,6,81,486,Debit Card,In-store,South
+590,2,79,08/12/2024,2,140,280,Cash,Online,South
+591,7,61,08/13/2024,8,86,688,Credit Card,Online,South
+592,8,19,08/14/2024,4,189,756,Debit Card,Online,South
+593,5,13,08/15/2024,2,163,326,Debit Card,In-store,West
+594,4,41,08/16/2024,1,77,77,Online,Online,West
+595,9,44,08/17/2024,4,104,416,Cash,Online,East
+596,3,36,08/18/2024,5,91,455,Cash,Online,North
+597,4,59,08/19/2024,1,177,177,Online,Online,West
+598,9,21,08/20/2024,9,88,792,Credit Card,Online,West
+599,1,69,08/21/2024,1,189,189,Credit Card,Online,East
+600,4,81,08/22/2024,8,71,568,Credit Card,Online,South
+601,9,36,08/23/2024,4,63,252,Online,Online,North
+602,9,77,08/24/2024,4,82,328,Cash,Online,North
+603,3,73,08/25/2024,2,125,250,Debit Card,In-store,East
+604,9,2,08/26/2024,3,80,240,Online,In-store,South
+605,8,95,08/27/2024,2,174,348,Online,Online,South
+606,6,37,08/28/2024,1,186,186,Credit Card,In-store,West
+607,6,11,08/29/2024,7,174,1218,Debit Card,In-store,West
+608,1,100,08/30/2024,4,175,700,Online,In-store,South
+609,7,42,08/31/2024,1,171,171,Cash,In-store,East
+610,4,26,09/01/2024,9,191,1719,Debit Card,Online,West
+611,6,96,09/02/2024,9,77,693,Online,Online,West
+612,4,6,09/03/2024,7,110,770,Debit Card,In-store,South
+613,8,35,09/04/2024,4,114,456,Debit Card,Online,North
+614,8,70,09/05/2024,4,130,520,Online,In-store,West
+615,5,36,09/06/2024,5,75,375,Cash,In-store,West
+616,1,97,09/07/2024,1,120,120,Debit Card,In-store,South
+617,9,22,09/08/2024,7,101,707,Online,Online,North
+618,1,36,09/09/2024,7,50,350,Cash,Online,West
+619,9,56,09/10/2024,1,83,83,Cash,Online,North
+620,9,47,09/11/2024,4,137,548,Debit Card,Online,South
+621,1,41,09/12/2024,6,76,456,Cash,Online,South
+622,8,15,09/13/2024,5,150,750,Debit Card,Online,East
+623,1,50,09/14/2024,7,105,735,Online,Online,North
+624,9,47,09/15/2024,2,54,108,Cash,Online,South
+625,9,52,09/16/2024,9,111,999,Credit Card,In-store,South
+626,2,24,09/17/2024,9,62,558,Online,In-store,East
+627,7,29,09/18/2024,3,149,447,Cash,Online,North
+628,6,31,09/19/2024,1,163,163,Credit Card,Online,North
+629,8,12,09/20/2024,6,128,768,Debit Card,In-store,South
+630,4,76,09/21/2024,2,51,102,Cash,Online,West
+631,6,70,09/22/2024,9,82,738,Online,Online,East
+632,3,35,09/23/2024,2,79,158,Debit Card,Online,East
+633,4,60,09/24/2024,2,151,302,Online,Online,South
+634,2,35,09/25/2024,5,172,860,Credit Card,Online,West
+635,4,54,09/26/2024,4,78,312,Debit Card,In-store,West
+636,2,72,09/27/2024,2,50,100,Online,In-store,North
+637,4,39,09/28/2024,6,129,774,Debit Card,Online,South
+638,4,91,09/29/2024,9,54,486,Cash,In-store,West
+639,6,44,09/30/2024,8,150,1200,Debit Card,In-store,North
+640,5,70,10/01/2024,7,103,721,Credit Card,Online,North
+641,3,23,10/02/2024,6,133,798,Credit Card,Online,North
+642,1,47,10/03/2024,4,60,240,Cash,Online,North
+643,3,58,10/04/2024,8,130,1040,Online,Online,West
+644,6,31,10/05/2024,4,53,212,Credit Card,Online,North
+645,6,91,10/06/2024,9,169,1521,Cash,Online,East
+646,9,43,10/07/2024,2,196,392,Online,Online,East
+647,5,4,10/08/2024,7,161,1127,Cash,In-store,North
+648,3,50,10/09/2024,9,100,900,Debit Card,Online,East
+649,1,42,10/10/2024,2,164,328,Debit Card,In-store,North
+650,1,16,10/11/2024,8,194,1552,Cash,Online,West
+651,2,91,10/12/2024,2,158,316,Credit Card,Online,East
+652,5,18,10/13/2024,6,194,1164,Credit Card,In-store,South
+653,9,91,10/14/2024,2,80,160,Debit Card,Online,West
+654,7,92,10/15/2024,4,130,520,Credit Card,In-store,East
+655,9,93,10/16/2024,8,81,648,Cash,Online,North
+656,7,24,10/17/2024,4,68,272,Online,Online,East
+657,5,26,10/18/2024,4,169,676,Credit Card,In-store,North
+658,4,31,10/19/2024,3,88,264,Online,Online,West
+659,3,40,10/20/2024,5,110,550,Online,In-store,South
+660,8,26,10/21/2024,3,165,495,Credit Card,In-store,South
+661,5,80,10/22/2024,8,64,512,Credit Card,Online,North
+662,4,31,10/23/2024,3,156,468,Cash,Online,North
+663,1,35,10/24/2024,4,58,232,Cash,Online,West
+664,3,41,10/25/2024,2,177,354,Credit Card,In-store,South
+665,4,16,10/26/2024,9,101,909,Online,In-store,South
+666,1,46,10/27/2024,4,57,228,Debit Card,Online,South
+667,2,82,10/28/2024,5,162,810,Credit Card,In-store,East
+668,2,71,10/29/2024,7,169,1183,Credit Card,Online,East
+669,7,41,10/30/2024,1,82,82,Online,In-store,North
+670,3,97,10/31/2024,9,103,927,Cash,In-store,West
+671,2,49,11/01/2024,6,90,540,Cash,In-store,North
+672,6,90,11/02/2024,9,129,1161,Cash,In-store,East
+673,4,76,11/03/2024,1,53,53,Online,Online,West
+674,5,51,11/04/2024,8,167,1336,Online,Online,East
+675,8,29,11/05/2024,5,187,935,Debit Card,Online,North
+676,2,6,11/06/2024,7,68,476,Online,In-store,South
+677,2,45,11/07/2024,7,89,623,Cash,Online,West
+678,2,45,11/08/2024,3,177,531,Cash,In-store,West
+679,7,90,11/09/2024,5,194,970,Cash,Online,West
+680,8,34,11/10/2024,3,155,465,Debit Card,Online,West
+681,3,12,11/11/2024,3,88,264,Debit Card,Online,North
+682,3,20,11/12/2024,8,104,832,Debit Card,Online,South
+683,3,65,11/13/2024,2,150,300,Debit Card,In-store,North
+684,8,84,11/14/2024,9,196,1764,Online,Online,North
+685,2,63,11/15/2024,5,95,475,Debit Card,Online,North
+686,9,83,11/16/2024,1,113,113,Online,In-store,North
+687,9,52,11/17/2024,1,172,172,Cash,In-store,South
+688,3,27,11/18/2024,2,105,210,Credit Card,In-store,West
+689,9,52,11/19/2024,5,80,400,Cash,In-store,East
+690,3,38,11/20/2024,3,146,438,Debit Card,In-store,North
+691,3,13,11/21/2024,6,60,360,Online,In-store,North
+692,7,65,11/22/2024,2,92,184,Online,In-store,South
+693,7,22,11/23/2024,2,53,106,Online,In-store,North
+694,8,34,11/24/2024,2,186,372,Online,Online,West
+695,1,98,11/25/2024,3,69,207,Cash,Online,South
+696,8,51,11/26/2024,1,151,151,Online,In-store,East
+697,2,29,11/27/2024,5,139,695,Cash,In-store,South
+698,8,16,11/28/2024,1,153,153,Credit Card,Online,East
+699,2,13,11/29/2024,4,118,472,Cash,In-store,East
+700,7,90,11/30/2024,2,62,124,Cash,Online,South
+701,4,50,12/01/2024,1,111,111,Debit Card,Online,East
+702,2,42,12/02/2024,8,105,840,Debit Card,Online,West
+703,7,25,12/03/2024,3,192,576,Online,Online,South
+704,6,34,12/04/2024,4,142,568,Debit Card,Online,North
+705,3,28,12/05/2024,6,65,390,Credit Card,Online,South
+706,3,75,12/06/2024,3,66,198,Cash,In-store,West
+707,6,61,12/07/2024,9,162,1458,Online,In-store,West
+708,2,61,12/08/2024,8,158,1264,Credit Card,Online,West
+709,7,78,12/09/2024,7,52,364,Debit Card,In-store,North
+710,9,11,12/10/2024,6,98,588,Cash,In-store,West
+711,1,71,12/11/2024,6,94,564,Debit Card,Online,North
+712,8,13,12/12/2024,8,115,920,Debit Card,In-store,West
+713,2,72,12/13/2024,8,185,1480,Online,Online,West
+714,6,83,12/14/2024,1,58,58,Online,In-store,South
+715,1,45,12/15/2024,9,159,1431,Credit Card,In-store,East
+716,5,36,12/16/2024,2,142,284,Online,Online,East
+717,1,46,12/17/2024,4,125,500,Credit Card,Online,East
+718,9,1,12/18/2024,7,146,1022,Online,Online,South
+719,8,29,12/19/2024,7,58,406,Debit Card,Online,South
+720,1,6,12/20/2024,1,119,119,Online,In-store,West
+721,3,83,12/21/2024,3,107,321,Credit Card,In-store,East
+722,8,86,12/22/2024,9,75,675,Online,In-store,West
+723,7,69,12/23/2024,5,52,260,Cash,Online,East
+724,4,46,12/24/2024,7,79,553,Cash,Online,West
+725,2,21,12/25/2024,1,77,77,Cash,In-store,South
+726,9,33,12/26/2024,9,100,900,Online,Online,West
+727,1,31,12/27/2024,3,178,534,Credit Card,Online,East
+728,8,72,12/28/2024,3,104,312,Credit Card,In-store,South
+729,4,12,12/29/2024,1,112,112,Online,Online,East
+730,5,82,12/30/2024,4,188,752,Cash,Online,East
+731,7,36,12/31/2024,9,106,954,Cash,Online,West
+732,1,93,01/01/2025,7,151,1057,Credit Card,Online,South
+733,3,65,01/02/2025,6,124,744,Online,Online,West
+734,6,96,01/03/2025,8,82,656,Debit Card,Online,East
+735,1,77,01/04/2025,6,110,660,Debit Card,In-store,North
+736,2,76,01/05/2025,2,143,286,Cash,Online,North
+737,7,99,01/06/2025,6,188,1128,Cash,In-store,East
+738,8,77,01/07/2025,6,54,324,Online,In-store,West
+739,7,76,01/08/2025,2,98,196,Online,Online,East
+740,8,9,01/09/2025,1,120,120,Debit Card,Online,South
+741,5,14,01/10/2025,6,96,576,Credit Card,In-store,East
+742,5,11,01/11/2025,9,176,1584,Online,Online,North
+743,3,87,01/12/2025,3,99,297,Online,Online,South
+744,9,60,01/13/2025,9,66,594,Credit Card,Online,South
+745,8,21,01/14/2025,2,157,314,Credit Card,Online,South
+746,6,5,01/15/2025,8,105,840,Online,Online,East
+747,7,19,01/16/2025,9,83,747,Online,Online,East
+748,1,56,01/17/2025,5,128,640,Credit Card,Online,West
+749,3,81,01/18/2025,4,185,740,Cash,Online,West
+750,6,59,01/19/2025,6,167,1002,Credit Card,Online,North
+751,8,20,01/20/2025,7,55,385,Debit Card,Online,North
+752,4,42,01/21/2025,6,171,1026,Online,Online,North
+753,6,6,01/22/2025,7,86,602,Credit Card,Online,South
+754,7,74,01/23/2025,4,122,488,Debit Card,Online,South
+755,6,64,01/24/2025,6,61,366,Debit Card,Online,North
+756,9,48,01/25/2025,3,182,546,Cash,In-store,South
+757,2,30,01/26/2025,4,150,600,Online,In-store,West
+758,3,62,01/27/2025,7,198,1386,Debit Card,In-store,South
+759,6,16,01/28/2025,2,102,204,Cash,In-store,South
+760,2,85,01/29/2025,1,58,58,Cash,In-store,South
+761,8,27,01/30/2025,5,75,375,Credit Card,In-store,North
+762,2,77,01/31/2025,6,198,1188,Online,In-store,North
+763,5,42,02/01/2025,8,89,712,Credit Card,In-store,East
+764,9,84,02/02/2025,9,51,459,Cash,Online,South
+765,1,88,02/03/2025,2,188,376,Cash,Online,South
+766,4,18,02/04/2025,2,80,160,Cash,Online,South
+767,6,3,02/05/2025,5,147,735,Debit Card,Online,North
+768,6,82,02/06/2025,4,132,528,Debit Card,Online,West
+769,1,48,02/07/2025,2,65,130,Debit Card,In-store,South
+770,4,87,02/08/2025,8,79,632,Cash,In-store,West
+771,1,42,02/09/2025,7,57,399,Cash,In-store,West
+772,3,71,02/10/2025,6,106,636,Online,In-store,East
+773,3,87,02/11/2025,6,100,600,Online,In-store,North
+774,3,8,02/12/2025,6,143,858,Debit Card,In-store,West
+775,1,92,02/13/2025,2,184,368,Cash,In-store,East
+776,6,1,02/14/2025,3,98,294,Online,In-store,East
+777,2,13,02/15/2025,8,116,928,Cash,Online,North
+778,8,64,02/16/2025,3,149,447,Online,In-store,West
+779,9,9,02/17/2025,2,156,312,Online,Online,North
+780,7,72,02/18/2025,6,181,1086,Cash,Online,West
+781,2,27,02/19/2025,3,110,330,Debit Card,Online,South
+782,8,54,02/20/2025,3,114,342,Cash,Online,North
+783,5,29,02/21/2025,5,60,300,Debit Card,In-store,East
+784,1,70,02/22/2025,8,121,968,Online,In-store,West
+785,3,9,02/23/2025,9,89,801,Cash,Online,South
+786,9,83,02/24/2025,7,188,1316,Credit Card,Online,North
+787,7,70,02/25/2025,3,190,570,Debit Card,In-store,West
+788,6,53,02/26/2025,9,112,1008,Debit Card,Online,South
+789,6,3,02/27/2025,2,115,230,Debit Card,Online,East
+790,6,94,02/28/2025,8,173,1384,Online,In-store,South
+791,6,86,03/01/2025,7,147,1029,Credit Card,Online,West
+792,6,13,03/02/2025,2,50,100,Credit Card,Online,North
+793,1,20,03/03/2025,8,145,1160,Credit Card,Online,East
+794,1,84,03/04/2025,5,86,430,Cash,Online,North
+795,4,23,03/05/2025,2,52,104,Debit Card,In-store,South
+796,3,64,03/06/2025,9,69,621,Online,In-store,East
+797,4,96,03/07/2025,4,101,404,Credit Card,Online,West
+798,4,52,03/08/2025,1,156,156,Cash,Online,North
+799,6,64,03/09/2025,9,139,1251,Debit Card,In-store,East
+800,8,19,03/10/2025,3,66,198,Online,Online,North
+801,1,97,03/11/2025,1,89,89,Online,Online,West
+802,7,30,03/12/2025,2,177,354,Credit Card,In-store,West
+803,4,44,03/13/2025,7,158,1106,Debit Card,Online,South
+804,7,22,03/14/2025,8,154,1232,Credit Card,In-store,South
+805,8,79,03/15/2025,5,143,715,Cash,Online,North
+806,1,31,03/16/2025,3,79,237,Cash,In-store,East
+807,5,93,03/17/2025,2,146,292,Cash,Online,North
+808,1,29,03/18/2025,7,112,784,Debit Card,In-store,West
+809,9,19,03/19/2025,5,95,475,Debit Card,Online,West
+810,8,59,03/20/2025,5,145,725,Credit Card,Online,South
+811,6,61,03/21/2025,7,102,714,Credit Card,In-store,North
+812,1,48,03/22/2025,5,82,410,Credit Card,Online,South
+813,7,69,03/23/2025,1,165,165,Credit Card,Online,South
+814,2,87,03/24/2025,6,67,402,Debit Card,In-store,South
+815,8,34,03/25/2025,4,86,344,Online,In-store,South
+816,2,33,03/26/2025,8,178,1424,Cash,In-store,North
+817,9,51,03/27/2025,7,65,455,Credit Card,In-store,West
+818,5,78,03/28/2025,9,177,1593,Debit Card,Online,South
+819,8,18,03/29/2025,2,182,364,Credit Card,In-store,North
+820,2,82,03/30/2025,7,90,630,Online,Online,South
+821,8,87,03/31/2025,1,133,133,Online,Online,South
+822,5,83,04/01/2025,3,137,411,Online,In-store,East
+823,1,48,04/02/2025,7,163,1141,Cash,Online,West
+824,3,8,04/03/2025,5,143,715,Cash,In-store,South
+825,2,9,04/04/2025,6,122,732,Credit Card,Online,West
+826,5,20,04/05/2025,2,120,240,Cash,Online,South
+827,4,90,04/06/2025,1,119,119,Online,Online,South
+828,1,71,04/07/2025,5,98,490,Debit Card,In-store,North
+829,5,47,04/08/2025,8,75,600,Online,In-store,North
+830,9,57,04/09/2025,7,129,903,Online,Online,East
+831,9,26,04/10/2025,7,191,1337,Online,Online,East
+832,1,51,04/11/2025,2,52,104,Credit Card,In-store,South
+833,2,65,04/12/2025,1,187,187,Cash,Online,South
+834,3,75,04/13/2025,7,55,385,Credit Card,Online,West
+835,1,76,04/14/2025,1,193,193,Online,In-store,East
+836,1,21,04/15/2025,5,76,380,Cash,Online,South
+837,8,79,04/16/2025,1,148,148,Debit Card,In-store,West
+838,2,7,04/17/2025,1,145,145,Online,Online,South
+839,6,76,04/18/2025,4,61,244,Cash,Online,South
+840,5,8,04/19/2025,4,170,680,Cash,In-store,West
+841,2,18,04/20/2025,8,140,1120,Cash,In-store,South
+842,2,78,04/21/2025,8,173,1384,Debit Card,Online,North
+843,8,100,04/22/2025,5,136,680,Cash,In-store,South
+844,7,87,04/23/2025,8,131,1048,Credit Card,Online,North
+845,8,30,04/24/2025,2,78,156,Cash,Online,North
+846,6,18,04/25/2025,2,68,136,Credit Card,In-store,West
+847,6,99,04/26/2025,9,173,1557,Credit Card,Online,North
+848,9,47,04/27/2025,8,152,1216,Online,In-store,South
+849,2,26,04/28/2025,4,147,588,Credit Card,In-store,East
+850,5,29,04/29/2025,8,176,1408,Cash,In-store,South
+851,5,9,04/30/2025,7,76,532,Credit Card,Online,East
+852,8,29,05/01/2025,1,125,125,Cash,In-store,North
+853,8,80,05/02/2025,4,117,468,Debit Card,In-store,West
+854,6,39,05/03/2025,3,167,501,Debit Card,Online,North
+855,6,56,05/04/2025,1,175,175,Debit Card,In-store,South
+856,6,35,05/05/2025,2,56,112,Online,Online,East
+857,8,19,05/06/2025,6,64,384,Cash,Online,West
+858,3,67,05/07/2025,7,153,1071,Credit Card,In-store,East
+859,3,70,05/08/2025,8,112,896,Cash,In-store,West
+860,8,62,05/09/2025,2,71,142,Credit Card,In-store,North
+861,7,29,05/10/2025,9,127,1143,Cash,Online,South
+862,7,6,05/11/2025,7,131,917,Debit Card,Online,North
+863,8,46,05/12/2025,1,79,79,Online,Online,East
+864,7,80,05/13/2025,1,63,63,Credit Card,Online,East
+865,6,88,05/14/2025,5,57,285,Credit Card,In-store,West
+866,6,71,05/15/2025,9,187,1683,Credit Card,In-store,North
+867,5,26,05/16/2025,5,112,560,Online,In-store,North
+868,1,100,05/17/2025,4,106,424,Credit Card,In-store,West
+869,8,16,05/18/2025,7,123,861,Cash,In-store,North
+870,5,35,05/19/2025,7,107,749,Cash,Online,West
+871,8,20,05/20/2025,8,125,1000,Debit Card,Online,West
+872,9,23,05/21/2025,8,156,1248,Cash,In-store,South
+873,9,20,05/22/2025,7,156,1092,Cash,In-store,North
+874,8,41,05/23/2025,7,118,826,Credit Card,In-store,East
+875,3,62,05/24/2025,7,158,1106,Cash,In-store,West
+876,4,49,05/25/2025,5,91,455,Debit Card,Online,West
+877,4,78,05/26/2025,6,134,804,Online,Online,South
+878,3,54,05/27/2025,1,66,66,Credit Card,In-store,South
+879,9,88,05/28/2025,6,89,534,Debit Card,Online,West
+880,4,5,05/29/2025,5,161,805,Online,Online,West
+881,8,49,05/30/2025,8,160,1280,Cash,Online,West
+882,4,100,05/31/2025,9,111,999,Credit Card,In-store,North
+883,9,77,06/01/2025,4,117,468,Online,In-store,East
+884,8,18,06/02/2025,3,78,234,Credit Card,In-store,West
+885,2,38,06/03/2025,1,146,146,Cash,In-store,North
+886,1,90,06/04/2025,5,89,445,Cash,In-store,North
+887,6,15,06/05/2025,6,146,876,Debit Card,Online,East
+888,5,67,06/06/2025,3,122,366,Credit Card,Online,North
+889,6,25,06/07/2025,3,76,228,Debit Card,Online,East
+890,3,28,06/08/2025,4,131,524,Cash,In-store,East
+891,7,62,06/09/2025,6,143,858,Cash,Online,West
+892,4,12,06/10/2025,4,78,312,Debit Card,In-store,East
+893,5,79,06/11/2025,2,125,250,Cash,Online,East
+894,9,62,06/12/2025,3,109,327,Credit Card,In-store,West
+895,4,49,06/13/2025,2,74,148,Cash,In-store,South
+896,7,89,06/14/2025,7,52,364,Credit Card,Online,South
+897,4,40,06/15/2025,6,68,408,Online,Online,East
+898,1,59,06/16/2025,6,145,870,Online,In-store,East
+899,2,27,06/17/2025,1,53,53,Debit Card,Online,East
+900,1,81,06/18/2025,5,137,685,Online,Online,West
+901,5,65,06/19/2025,2,86,172,Credit Card,Online,South
+902,8,40,06/20/2025,3,126,378,Cash,Online,East
+903,3,1,06/21/2025,3,96,288,Debit Card,Online,South
+904,1,14,06/22/2025,6,121,726,Online,In-store,North
+905,9,29,06/23/2025,8,94,752,Cash,In-store,North
+906,2,31,06/24/2025,2,126,252,Debit Card,In-store,North
+907,5,64,06/25/2025,8,77,616,Debit Card,Online,South
+908,4,35,06/26/2025,1,187,187,Cash,In-store,South
+909,2,76,06/27/2025,6,112,672,Debit Card,Online,North
+910,7,37,06/28/2025,1,158,158,Cash,In-store,East
+911,1,10,06/29/2025,5,71,355,Credit Card,Online,West
+912,8,86,06/30/2025,2,125,250,Cash,In-store,East
+913,7,67,07/01/2025,3,155,465,Cash,In-store,East
+914,2,25,07/02/2025,1,156,156,Credit Card,Online,South
+915,5,56,07/03/2025,4,145,580,Cash,Online,North
+916,5,76,07/04/2025,1,181,181,Credit Card,Online,West
+917,8,79,07/05/2025,6,56,336,Debit Card,In-store,East
+918,8,37,07/06/2025,1,53,53,Online,In-store,South
+919,2,88,07/07/2025,7,97,679,Online,Online,North
+920,1,11,07/08/2025,1,60,60,Online,In-store,South
+921,9,62,07/09/2025,2,94,188,Cash,In-store,West
+922,2,47,07/10/2025,3,154,462,Debit Card,Online,North
+923,3,32,07/11/2025,1,194,194,Cash,In-store,East
+924,8,37,07/12/2025,7,109,763,Debit Card,Online,North
+925,6,47,07/13/2025,8,106,848,Online,Online,West
+926,6,79,07/14/2025,8,87,696,Credit Card,Online,South
+927,1,49,07/15/2025,2,77,154,Debit Card,Online,East
+928,5,34,07/16/2025,2,132,264,Online,Online,West
+929,7,12,07/17/2025,5,194,970,Online,In-store,South
+930,6,32,07/18/2025,5,55,275,Cash,In-store,South
+931,3,62,07/19/2025,3,100,300,Debit Card,In-store,North
+932,2,3,07/20/2025,7,84,588,Cash,In-store,South
+933,4,14,07/21/2025,4,170,680,Cash,In-store,South
+934,4,90,07/22/2025,4,149,596,Debit Card,In-store,North
+935,5,8,07/23/2025,1,81,81,Credit Card,In-store,West
+936,1,70,07/24/2025,2,91,182,Debit Card,Online,South
+937,6,26,07/25/2025,4,137,548,Debit Card,In-store,North
+938,2,24,07/26/2025,7,181,1267,Credit Card,Online,South
+939,1,16,07/27/2025,9,140,1260,Debit Card,Online,South
+940,7,77,07/28/2025,3,165,495,Credit Card,Online,West
+941,6,55,07/29/2025,6,91,546,Online,In-store,West
+942,9,28,07/30/2025,7,98,686,Online,In-store,North
+943,8,86,07/31/2025,1,158,158,Online,Online,South
+944,2,76,08/01/2025,4,57,228,Debit Card,Online,North
+945,2,75,08/02/2025,4,109,436,Cash,Online,South
+946,2,90,08/03/2025,9,127,1143,Online,Online,West
+947,8,14,08/04/2025,1,119,119,Cash,In-store,West
+948,6,39,08/05/2025,9,107,963,Cash,Online,South
+949,2,38,08/06/2025,6,156,936,Cash,In-store,North
+950,5,20,08/07/2025,6,94,564,Online,In-store,South
+951,6,60,08/08/2025,8,160,1280,Debit Card,Online,East
+952,9,17,08/09/2025,4,189,756,Cash,In-store,West
+953,9,73,08/10/2025,2,94,188,Debit Card,Online,West
+954,5,85,08/11/2025,3,175,525,Credit Card,Online,North
+955,4,39,08/12/2025,5,84,420,Online,In-store,North
+956,1,83,08/13/2025,7,154,1078,Credit Card,Online,South
+957,5,51,08/14/2025,8,96,768,Cash,Online,South
+958,3,35,08/15/2025,6,77,462,Online,Online,West
+959,1,92,08/16/2025,9,50,450,Debit Card,Online,North
+960,6,85,08/17/2025,7,63,441,Credit Card,Online,North
+961,2,20,08/18/2025,5,134,670,Cash,In-store,East
+962,5,63,08/19/2025,4,179,716,Cash,Online,North
+963,5,22,08/20/2025,5,169,845,Online,In-store,North
+964,5,65,08/21/2025,1,121,121,Online,Online,South
+965,2,87,08/22/2025,8,115,920,Credit Card,Online,South
+966,7,97,08/23/2025,2,132,264,Debit Card,In-store,West
+967,7,70,08/24/2025,1,94,94,Cash,Online,East
+968,3,12,08/25/2025,1,199,199,Online,In-store,West
+969,7,8,08/26/2025,5,102,510,Online,Online,South
+970,4,15,08/27/2025,6,57,342,Online,In-store,East
+971,7,8,08/28/2025,8,178,1424,Debit Card,In-store,North
+972,4,39,08/29/2025,5,102,510,Cash,Online,West
+973,2,58,08/30/2025,9,124,1116,Credit Card,Online,North
+974,5,37,08/31/2025,2,78,156,Credit Card,In-store,South
+975,6,34,09/01/2025,5,144,720,Debit Card,Online,East
+976,6,54,09/02/2025,7,196,1372,Debit Card,In-store,South
+977,7,90,09/03/2025,3,97,291,Cash,Online,East
+978,5,57,09/04/2025,6,77,462,Credit Card,In-store,South
+979,4,37,09/05/2025,8,187,1496,Cash,Online,South
+980,9,62,09/06/2025,9,161,1449,Credit Card,Online,South
+981,3,87,09/07/2025,2,173,346,Cash,In-store,North
+982,3,56,09/08/2025,4,143,572,Debit Card,Online,South
+983,2,6,09/09/2025,9,193,1737,Cash,Online,East
+984,3,40,09/10/2025,5,166,830,Debit Card,In-store,West
+985,4,97,09/11/2025,5,59,295,Credit Card,Online,South
+986,5,43,09/12/2025,8,156,1248,Debit Card,In-store,West
+987,1,91,09/13/2025,6,121,726,Debit Card,Online,West
+988,9,29,09/14/2025,8,155,1240,Online,In-store,North
+989,5,76,09/15/2025,7,111,777,Credit Card,Online,South
+990,9,73,09/16/2025,2,198,396,Online,Online,West
+991,6,39,09/17/2025,5,176,880,Credit Card,In-store,South
+992,6,79,09/18/2025,4,199,796,Cash,Online,North
+993,7,26,09/19/2025,4,153,612,Credit Card,In-store,North
+994,1,58,09/20/2025,1,84,84,Cash,In-store,South
+995,2,38,09/21/2025,2,113,226,Cash,In-store,South
+996,6,86,09/22/2025,9,185,1665,Cash,In-store,South
+997,7,46,09/23/2025,7,96,672,Debit Card,In-store,North
+998,6,58,09/24/2025,5,60,300,Credit Card,Online,West
+999,6,37,09/25/2025,9,184,1656,Debit Card,Online,West
+1000,2,96,09/26/2025,3,61,183,Cash,In-store,West
